@@ -183,7 +183,7 @@
     "author": "Torann",
     "name": "A RimWorld of Magic",
     "steamId": "1201382956",
-    "version": "2.5.7.1"
+    "version": "2.5.7.2"
   },
   {
     "author": "Dakk Passerida",
@@ -840,6 +840,18 @@
     "version": null
   },
   {
+    "author": "Honza2268",
+    "name": "Standalone Hot Spring Retexture Compilation",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Helixien,  Taranchuk,  OskarPotocki,  Luizi,  IcingWithCheeseCake,  Sir Van and  Reann_Shepard",
+    "name": "Reinforced Mechanoids",
+    "steamId": "2798710610",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Trinity",
     "name": "RuntimeGC [1.3]",
     "steamId": "2559582557",
@@ -850,11 +862,5 @@
     "name": "RocketMan - Performance Mod",
     "steamId": "2479389928",
     "version": "0.6.3.2196"
-  },
-  {
-    "author": "Honza2268",
-    "name": "Standalone Hot Spring Retexture Compilation",
-    "steamId": null,
-    "version": null
   }
 ]
