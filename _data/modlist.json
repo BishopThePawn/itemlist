@@ -48,12 +48,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Fuu Chan",
-    "name": "[Fuu] Nudist's Evasion",
-    "steamId": "2579512280",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Orion",
     "name": "Hospitality",
     "steamId": null,
@@ -72,28 +66,10 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Oskar Potocki and  XeoNovaDan",
-    "name": "Vanilla Factions Expanded - Medieval",
-    "steamId": "2023513450",
-    "version": "1.0.6.0"
-  },
-  {
-    "author": "Oskar Potocki and  Taranchuk",
-    "name": "Vanilla Books Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
     "name": "Vanilla Cooking Expanded",
     "steamId": "2134308519",
     "version": "1.3.7862.41411"
-  },
-  {
-    "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
-    "name": "Vanilla Brewing Expanded",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Oskar Potocki and  Sarg Bjornson",
@@ -126,12 +102,6 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki,  ISOREX,  xrushha,  legodude17 and  Chowder",
-    "name": "Vanilla Factions Expanded - Classical",
-    "steamId": "2787850474",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Neronix17",
     "name": "[O21] Forgotten Realms",
     "steamId": "2184183669",
@@ -148,12 +118,6 @@
     "name": "Prune Job",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "legodudee17 and  Oskar Potocki",
-    "name": "Vanilla Backgrounds Expanded",
-    "steamId": "2775017012",
-    "version": "1.0.0.0"
   },
   {
     "author": "Uuugggg",
@@ -174,18 +138,6 @@
     "version": "2.0.10.0"
   },
   {
-    "author": "jecrell and contributors",
-    "name": "JecsTools",
-    "steamId": "932008009",
-    "version": "1.3.0.4"
-  },
-  {
-    "author": "Torann",
-    "name": "A RimWorld of Magic",
-    "steamId": "1201382956",
-    "version": "2.5.7.2"
-  },
-  {
     "author": "Dakk Passerida",
     "name": "Replantable Gauranlen Trees",
     "steamId": null,
@@ -201,7 +153,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.2.0.4"
+    "version": "6.2.0.5"
   },
   {
     "author": "Andreas Pardeike,  BleuSquid and  Saschahi",
@@ -258,12 +210,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "mr_chimick",
-    "name": "Block Unwanted Minutiae",
-    "steamId": "2266225921",
-    "version": "2.8"
-  },
-  {
     "author": "Oskar Potocki and  Sarg Bjornson",
     "name": "Vanilla Fishing Expanded",
     "steamId": "1914064942",
@@ -286,12 +232,6 @@
     "name": "RimHUD",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Kiame Vivacity",
-    "name": "[KV] RimFridge",
-    "steamId": "1180721235",
-    "version": "1.2.1.0"
   },
   {
     "author": "Little White Mouse",
@@ -318,26 +258,8 @@
     "version": null
   },
   {
-    "author": "none",
-    "name": "Simple Algae - 'VPE More Plants' Addon",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Dakk Passerida",
     "name": "Replantable Anima Trees",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "papercrane1001",
-    "name": "[1001]Filter by Headlesss",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "GeodesicDragon",
-    "name": "Simple Skulls",
     "steamId": null,
     "version": null
   },
@@ -366,12 +288,6 @@
     "version": null
   },
   {
-    "author": "Albion",
-    "name": "Sparkling Worlds - Full Mod",
-    "steamId": "1123043922",
-    "version": "2.6.0"
-  },
-  {
     "author": "SoulfulPumpkin",
     "name": "Tabletop Trove - Additional Joy Objects and Decor",
     "steamId": null,
@@ -396,12 +312,6 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
-    "name": "Vanilla Cooking Expanded - Stews",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki,  Kikohi and  Helixien",
     "name": "Vanilla Events Expanded",
     "steamId": "1938420742",
@@ -420,22 +330,10 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki and  Taranchuk",
-    "name": "Vanilla Trading Expanded",
-    "steamId": "2785616901",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Oskar Potocki,  Kikohi and  Sarg Bjornson",
     "name": "Vanilla Factions Expanded - Insectoids",
     "steamId": "2149755445",
     "version": "1.2.3.1"
-  },
-  {
-    "author": "Vanilla Expanded team",
-    "name": "Vanilla Factions Expanded - Vikings",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "UnlimitedHugs",
@@ -504,12 +402,6 @@
     "version": "2.2.4.0"
   },
   {
-    "author": "D4egon",
-    "name": "Castle Branne",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "void",
     "name": "Character Editor",
     "steamId": "1874644848",
@@ -574,12 +466,6 @@
     "name": "Go Explore!",
     "steamId": "1814100216",
     "version": "1.1.0"
-  },
-  {
-    "author": "AUTOMATIC",
-    "name": "Gradient Hair",
-    "steamId": "1687053679",
-    "version": "1.0.350.0854"
   },
   {
     "author": "AncientGammoner",
@@ -696,12 +582,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "busted_bunny",
-    "name": "Recycle This",
-    "steamId": "2567877605",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Uuugggg",
     "name": "Replace Stuff",
     "steamId": "1372003680",
@@ -750,12 +630,6 @@
     "version": "1.0.3"
   },
   {
-    "author": "EdB",
-    "name": "EdB Prepare Carefully",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Syrus",
     "name": "VCE Simple Cheese",
     "steamId": null,
@@ -788,12 +662,6 @@
   {
     "author": "Orion",
     "name": "Gastronomy",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Kitsune",
-    "name": "Kit's VFE Weapons",
     "steamId": null,
     "version": null
   },
