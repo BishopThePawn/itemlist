@@ -423,7 +423,7 @@
     "author": "Andreas Pardeike",
     "name": "Camera+",
     "steamId": "867467808",
-    "version": "2.2.4.0"
+    "version": "2.3.2.0"
   },
   {
     "author": "void",
@@ -642,6 +642,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Oskar Potocki,  Sarg Bjornson,  erdelf,  Roolo,  Smash Phil,  Taranchuk,  xrushha,  Kikohi and  legodude17",
+    "name": "Vanilla Factions Expanded - Pirates",
+    "steamId": "2723801948",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "民火",
     "name": "Where is my weapon?",
     "steamId": "1539028008",
@@ -732,14 +738,14 @@
     "version": null
   },
   {
-    "author": "Honza2268",
-    "name": "Standalone Hot Spring Retexture Compilation",
-    "steamId": null,
-    "version": null
+    "author": "Sarg,  erdelf,  Oskar Potocki,  Luizi and  Reann Shepard",
+    "name": "Vanilla Genetics Expanded",
+    "steamId": "2801160906",
+    "version": "1.0.0.0"
   },
   {
     "author": "Helixien,  Taranchuk,  OskarPotocki,  Luizi,  IcingWithCheeseCake,  Sir Van and  Reann_Shepard",
-    "name": "Reinforced Mechanoids",
+    "name": "Reinforced Mechanoids: Volume One",
     "steamId": "2798710610",
     "version": "1.0.0.0"
   },
