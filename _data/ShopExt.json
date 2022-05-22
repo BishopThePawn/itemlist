@@ -5772,8 +5772,8 @@
       "name": "bioticgod",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 1,
       "degree": 0
     },
     {
@@ -5802,8 +5802,8 @@
       "name": "bioticallydeaf",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 1,
       "degree": -2
     },
     {
@@ -5832,8 +5832,8 @@
       "name": "bioticallydull",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 1,
       "degree": -1
     },
     {
@@ -5862,8 +5862,8 @@
       "name": "bioticallyskilled",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 1,
       "degree": 1
     },
     {
@@ -5892,8 +5892,8 @@
       "name": "bioticallytalented",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1000,
+      "removePrice": 1,
       "degree": 2
     }
   ],
@@ -5918,7 +5918,7 @@
       "defName": "Human",
       "enabled": true,
       "name": "human",
-      "price": 2917
+      "price": 4000
     }
   ]
 }

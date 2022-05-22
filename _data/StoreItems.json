@@ -4264,7 +4264,7 @@
       "abr": "candle",
       "category": "Furniture",
       "defname": "VFEM_Candle",
-      "price": 1
+      "price": 20
     },
     {
       "abr": "archerytarget",
@@ -8422,7 +8422,7 @@
       "abr": "darkcandle",
       "category": "Furniture",
       "defname": "VFEM_DarkCandle",
-      "price": 1
+      "price": 20
     },
     {
       "abr": "warcasketsalvagedlasereradicator",
