@@ -1,16 +1,6 @@
 {
 	"incitems" : [
 	{
-		"abr": "tornado",
-		"price": 2,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "tornados",
-		"price": 3,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "clearweather",
 		"price": 400,
 		"karmatype": "Good"
@@ -131,6 +121,11 @@
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "maninblack",
+		"price": 350,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "madanimal",
 		"price": 200,
 		"karmatype": "Bad"
@@ -158,6 +153,11 @@
 	{
 		"abr": "farmanimals",
 		"price": 400,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "wildman",
+		"price": 300,
 		"karmatype": "Good"
 	},
 	{
@@ -312,7 +312,7 @@
 	},
 	{
 		"abr": "hodlbotvote",
-		"price": 1000,
+		"price": 600,
 		"karmatype": "Neutral"
 	},
 	{
@@ -357,7 +357,7 @@
 	},
 	{
 		"abr": "rescueme",
-		"price": 1000,
+		"price": 1200,
 		"karmatype": "Neutral"
 	},
 	{
@@ -504,7 +504,12 @@
 		"abr": "drought",
 		"price": 1000,
 		"karmatype": "Bad"
+	},
+	{
+		"abr": "wildmen",
+		"price": 600,
+		"karmatype": "Neutral"
 	}
 	],
-	"total": 101
+	"total": 102
 }

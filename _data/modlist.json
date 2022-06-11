@@ -12,12 +12,6 @@
     "version": "3.3.0.0"
   },
   {
-    "author": "Fluffy",
-    "name": "Mod Manager",
-    "steamId": "1507748539",
-    "version": "3.8.1038"
-  },
-  {
     "author": "Kippetje2000",
     "name": "Adjustable Ability Cooldowns",
     "steamId": "2566715739",
@@ -48,9 +42,21 @@
     "version": "1.3.7862.41411"
   },
   {
+    "author": "Rikiki,  Mlie and  Fluffysminion",
+    "name": "Biomes! Caveworld Flora Unleashed",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
     "name": "Vanilla Ideology Expanded - Memes and Structures",
     "steamId": "2636329500",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg",
+    "name": "Alpha Biomes",
+    "steamId": "1841354677",
     "version": "1.0.0.0"
   },
   {
@@ -136,6 +142,12 @@
     "name": "Harvest Organs Post Mortem",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Kikohi",
+    "name": "Jewelry",
+    "steamId": "2020964421",
+    "version": "1.0.0.0"
   },
   {
     "author": "Little White Mouse",
@@ -438,12 +450,6 @@
     "version": "1.0.5.0"
   },
   {
-    "author": "SirRandoo",
-    "name": "ToolkitResearch",
-    "steamId": "2312827542",
-    "version": "1.0.3.2"
-  },
-  {
     "author": "Kiame Vivacity",
     "name": "[KV] Trading Spot",
     "steamId": "1180719658",
@@ -486,22 +492,10 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Oskar Potocki,  Kikohi and  Sarg Bjornson",
-    "name": "Vanilla Factions Expanded - Insectoids",
-    "steamId": "2149755445",
-    "version": "1.2.3.1"
-  },
-  {
-    "author": "Oskar Potocki,  Sarg Bjornson,  erdelf,  Roolo,  Smash Phil,  Taranchuk,  xrushha,  Kikohi and  legodude17",
-    "name": "Vanilla Factions Expanded - Pirates",
-    "steamId": "2723801948",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Vanilla Expanded team",
     "name": "Vanilla Factions Expanded - Vikings",
-    "steamId": null,
-    "version": null
+    "steamId": "2231295285",
+    "version": "1.0.0.0"
   },
   {
     "author": "OskarPotocki,  Atlas and  Kikohi",
@@ -537,12 +531,6 @@
     "author": "Neronix17",
     "name": "[O21] Adjustable Anima",
     "steamId": "2297332187",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Sarg,  erdelf,  Oskar Potocki,  Luizi and  Reann Shepard",
-    "name": "Vanilla Genetics Expanded",
-    "steamId": "2801160906",
     "version": "1.0.0.0"
   },
   {
@@ -588,12 +576,6 @@
     "version": null
   },
   {
-    "author": "Epicguru (James B)",
-    "name": "What's That Mod",
-    "steamId": "2258431182",
-    "version": "0.0.0.0"
-  },
-  {
     "author": "民火",
     "name": "Where is my weapon?",
     "steamId": "1539028008",
@@ -606,15 +588,33 @@
     "version": null
   },
   {
-    "author": "Krkr",
-    "name": "RocketMan - Performance Mod",
-    "steamId": "2479389928",
-    "version": "0.6.3.2196"
+    "author": "Vanilla Expanded Team and Co.",
+    "name": "Rim-Effect: Asari and Reapers",
+    "steamId": "2651149728",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Mod Manager",
+    "steamId": "1507748539",
+    "version": "3.8.1038"
+  },
+  {
+    "author": "Epicguru (James B)",
+    "name": "What's That Mod",
+    "steamId": "2258431182",
+    "version": "0.0.0.0"
   },
   {
     "author": "Trinity",
     "name": "RuntimeGC [1.3]",
     "steamId": "2559582557",
     "version": "0.1.0.0"
+  },
+  {
+    "author": "Krkr",
+    "name": "RocketMan - Performance Mod",
+    "steamId": "2479389928",
+    "version": "0.6.3.2196"
   }
 ]
