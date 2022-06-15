@@ -372,12 +372,6 @@
     "version": null
   },
   {
-    "author": "Dakk Passerida",
-    "name": "Replantable Gauranlen Trees",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Jaxe",
     "name": "RimHUD",
     "steamId": null,
@@ -523,12 +517,6 @@
   },
   {
     "author": "Neronix17",
-    "name": "[O21] Adjustable Gauranlen",
-    "steamId": "2560002213",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Neronix17",
     "name": "[O21] Adjustable Anima",
     "steamId": "2297332187",
     "version": "1.0.0.0"
@@ -594,10 +582,28 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Neronix17",
+    "name": "[O21] Adjustable Gauranlen",
+    "steamId": "2560002213",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Dakk Passerida",
+    "name": "Replantable Gauranlen Trees",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Fluffy",
     "name": "Mod Manager",
     "steamId": "1507748539",
     "version": "3.8.1038"
+  },
+  {
+    "author": "Mooloh",
+    "name": "Mooloh's Mythic Framework",
+    "steamId": "2819828894",
+    "version": "0.0.0.0"
   },
   {
     "author": "Epicguru (James B)",
