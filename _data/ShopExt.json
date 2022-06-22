@@ -1,4 +1,4 @@
-﻿{
+{
   "traits": [
     {
       "description": "Timmy enjoys the feeling of freedom that comes from being nude. he can handle clothing, but will be happier without it.",
@@ -5950,7 +5950,7 @@
       },
       "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
       "defName": "Human",
-      "enabled": true,
+      "enabled": false,
       "name": "human",
       "price": 4000
     },
@@ -5976,8 +5976,98 @@
       },
       "description": "Elegant mono-gender race. Native to the planet Thessia, Asari are often considered the most influential and respected sentient species in the galaxy, and are known for their, diplomacy and biotic aptitude. Asari can often use biotic powers without the need of biotic amplifiers.\n<i><b><color=#1CFF08FF>Rim-Effect: Asari and Reapers</color></b></i>",
       "defName": "RE_Asari",
-      "enabled": true,
+      "enabled": false,
       "name": "asari",
+      "price": 4000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+8.0C Minimum comfortable temperature",
+          "+32.0C Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "The most common simian on this world, they are seen in almost every role of simian society from labourers to scientists.\n<i><b><color=#1CFF08FF>Planet of the Apes</color></b></i>",
+      "defName": "ApePlanet_Chimp",
+      "enabled": true,
+      "name": "Chimp",
+      "price": 4000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.80 Move speed",
+          "+8.0C Minimum comfortable temperature",
+          "+32.0C Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A rare sight in simian society, Bonobos are often lumped in with chimpanzees due to the similarities between them and so also follow similar roles in their community.\n<i><b><color=#1CFF08FF>Planet of the Apes</color></b></i>",
+      "defName": "ApePlanet_Bonobo",
+      "enabled": true,
+      "name": "Bonobo",
+      "price": 4000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+5.20 Move speed",
+          "+8.0C Minimum comfortable temperature",
+          "+32.0C Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Gorillas are typically seen in simian society performing more violent tasks, like guards or soldiers, it's rare that one does not end up in one of these roles.\n<i><b><color=#1CFF08FF>Planet of the Apes</color></b></i>",
+      "defName": "ApePlanet_Gorilla",
+      "enabled": true,
+      "name": "Gorilla",
+      "price": 4000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.20 Move speed",
+          "+8.0C Minimum comfortable temperature",
+          "+32.0C Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value",
+          "+75% Global certainty loss factor",
+          "+150% Ideoligion spread chance"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Orangutans have, despite being one of the least common simians, become leaders of simian societies across the planet, intelligent, manipulative and corrupt they make excellent politicians.\n<i><b><color=#1CFF08FF>Planet of the Apes</color></b></i>",
+      "defName": "ApePlanet_Orangutan",
+      "enabled": true,
+      "name": "Orangutan",
       "price": 4000
     }
   ]
