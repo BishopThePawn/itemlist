@@ -1372,37 +1372,37 @@
       "abr": "platearmor",
       "category": "Armor",
       "defname": "Apparel_PlateArmor",
-      "price": 792
+      "price": 396
     },
     {
       "abr": "flakvest",
       "category": "Armor",
       "defname": "Apparel_FlakVest",
-      "price": 375
+      "price": 188
     },
     {
       "abr": "flakpants",
       "category": "Armor",
       "defname": "Apparel_FlakPants",
-      "price": 375
+      "price": 188
     },
     {
       "abr": "flakjacket",
       "category": "Armor",
       "defname": "Apparel_FlakJacket",
-      "price": 483
+      "price": 242
     },
     {
       "abr": "marinearmor",
       "category": "Armor",
       "defname": "Apparel_PowerArmor",
-      "price": 3392
+      "price": 1696
     },
     {
       "abr": "reconarmor",
       "category": "Armor",
       "defname": "Apparel_ArmorRecon",
-      "price": 2567
+      "price": 1284
     },
     {
       "abr": "sandstonechunk",
@@ -2422,7 +2422,7 @@
       "abr": "prestigereconarmor",
       "category": "Armor",
       "defname": "Apparel_ArmorReconPrestige",
-      "price": 3292
+      "price": 1646
     },
     {
       "abr": "prestigereconhelmet",
@@ -2434,7 +2434,7 @@
       "abr": "prestigemarinearmor",
       "category": "Armor",
       "defname": "Apparel_ArmorMarinePrestige",
-      "price": 4217
+      "price": 2109
     },
     {
       "abr": "prestigemarinehelmet",
@@ -2446,7 +2446,7 @@
       "abr": "cataphractarmor",
       "category": "Armor",
       "defname": "Apparel_ArmorCataphract",
-      "price": 5200
+      "price": 2600
     },
     {
       "abr": "cataphracthelmet",
@@ -2458,7 +2458,7 @@
       "abr": "prestigecataphractarmor",
       "category": "Armor",
       "defname": "Apparel_ArmorCataphractPrestige",
-      "price": 6550
+      "price": 3275
     },
     {
       "abr": "prestigecataphracthelmet",
@@ -2470,19 +2470,19 @@
       "abr": "locustarmor",
       "category": "Armor",
       "defname": "Apparel_ArmorLocust",
-      "price": 3717
+      "price": 1859
     },
     {
       "abr": "grenadierarmor",
       "category": "Armor",
       "defname": "Apparel_ArmorMarineGrenadier",
-      "price": 3842
+      "price": 1921
     },
     {
       "abr": "phoenixarmor",
       "category": "Armor",
       "defname": "Apparel_ArmorCataphractPhoenix",
-      "price": 5800
+      "price": 2900
     },
     {
       "abr": "gunlink",
@@ -4546,13 +4546,13 @@
       "abr": "mechaniteunderarmor",
       "category": "Armor",
       "defname": "VFE_MechaniteUnderArmor",
-      "price": 683
+      "price": 342
     },
     {
       "abr": "mechanitepants",
       "category": "Armor",
       "defname": "VFE_MechanitePants",
-      "price": 600
+      "price": 300
     },
     {
       "abr": "smallinfernospewer",
@@ -5074,13 +5074,13 @@
       "abr": "legionnairearmor",
       "category": "Armor",
       "defname": "VFEC_Apparel_LegionnaireArmor",
-      "price": 650
+      "price": 325
     },
     {
       "abr": "centurionarmor",
       "category": "Armor",
       "defname": "VFEC_Apparel_CenturionArmor",
-      "price": 733
+      "price": 367
     },
     {
       "abr": "heavyshield",
@@ -5242,19 +5242,19 @@
       "abr": "guardianarmor",
       "category": "Armor",
       "defname": "VFEV_Apparel_GuardianArmor",
-      "price": 958
+      "price": 479
     },
     {
       "abr": "leatherarmor",
       "category": "Armor",
       "defname": "VFEV_LeatherArmor",
-      "price": 483
+      "price": 242
     },
     {
       "abr": "ravagerarmor",
       "category": "Armor",
       "defname": "VFEV_Apparel_RavagerArmor",
-      "price": 825
+      "price": 413
     },
     {
       "abr": "jarlcape",
@@ -5272,13 +5272,13 @@
       "abr": "cryptoarmor",
       "category": "Armor",
       "defname": "VFEV_CryptoArmor",
-      "price": 3333
+      "price": 1667
     },
     {
       "abr": "cryptoheavyarmor",
       "category": "Armor",
       "defname": "VFEV_CryptoHeavyArmor",
-      "price": 4000
+      "price": 2000
     },
     {
       "abr": "cryptohelmet",
@@ -6490,13 +6490,13 @@
       "abr": "lightalliancearmor",
       "category": "Armor",
       "defname": "RE_Apparel_LightAllianceArmor",
-      "price": 3275
+      "price": 1638
     },
     {
       "abr": "alliancearmor",
       "category": "Armor",
       "defname": "RE_Apparel_AllianceArmor",
-      "price": 4167
+      "price": 2084
     },
     {
       "abr": "fatigues",
@@ -6514,7 +6514,7 @@
       "abr": "heavyalliancearmor",
       "category": "Armor",
       "defname": "RE_Apparel_HeavyAllianceArmor",
-      "price": 6150
+      "price": 3075
     },
     {
       "abr": "formalshirt",
@@ -6538,7 +6538,7 @@
       "abr": "spectrearmor",
       "category": "Armor",
       "defname": "RE_Apparel_SpectreArmor",
-      "price": 8333
+      "price": 4167
     },
     {
       "abr": "scienceuniform",
@@ -6652,13 +6652,13 @@
       "abr": "asarijusticararmor",
       "category": "Armor",
       "defname": "RE_Apparel_AsariJusticarArmor",
-      "price": 2875
+      "price": 1438
     },
     {
       "abr": "commandoarmor",
       "category": "Armor",
       "defname": "RE_Apparel_AsariCommandoArmor",
-      "price": 3617
+      "price": 1809
     },
     {
       "abr": "dancerbodysuit",
@@ -7378,7 +7378,7 @@
       "abr": "advancedvest",
       "category": "Armor",
       "defname": "VAE_Apparel_AdvancedVest",
-      "price": 725
+      "price": 363
     },
     {
       "abr": "aerofleet",
@@ -8158,7 +8158,7 @@
       "abr": "bulletproofvest",
       "category": "Armor",
       "defname": "VAE_Apparel_BulletproofVest",
-      "price": 1100
+      "price": 550
     },
     {
       "abr": "bumbledrone",
@@ -8272,7 +8272,7 @@
       "abr": "chainmail",
       "category": "Armor",
       "defname": "VAE_Apparel_Chainmail",
-      "price": 417
+      "price": 209
     },
     {
       "abr": "chameleonyak",
@@ -8332,7 +8332,7 @@
       "abr": "chestplate",
       "category": "Armor",
       "defname": "VAE_Apparel_Chestplate",
-      "price": 383
+      "price": 192
     },
     {
       "abr": "chickenbear",
@@ -9052,7 +9052,7 @@
       "abr": "gambeson",
       "category": "Armor",
       "defname": "VAE_Apparel_Gambeson",
-      "price": 280
+      "price": 140
     },
     {
       "abr": "geneticstinkeringtable",
@@ -9142,7 +9142,7 @@
       "abr": "ghilliesuit",
       "category": "Armor",
       "defname": "VAE_Apparel_GhillieSuit",
-      "price": 342
+      "price": 171
     },
     {
       "abr": "giantcrownedsilkie",
@@ -9328,7 +9328,7 @@
       "abr": "hazmatsuit",
       "category": "Armor",
       "defname": "VAE_Apparel_HAZMATSuit",
-      "price": 933
+      "price": 467
     },
     {
       "abr": "heatershield",
@@ -9358,7 +9358,7 @@
       "abr": "heavyplatearmor",
       "category": "Armor",
       "defname": "VFEM_Apparel_PlateArmorHeavy",
-      "price": 1158
+      "price": 579
     },
     {
       "abr": "heavyplatehelmet",
@@ -9790,7 +9790,7 @@
       "abr": "lightplatearmor",
       "category": "Armor",
       "defname": "VAE_Apparel_LightPlateArmor",
-      "price": 542
+      "price": 271
     },
     {
       "abr": "lightplatehelmet",
@@ -10510,7 +10510,7 @@
       "abr": "plateshoulderpads",
       "category": "Armor",
       "defname": "VAE_Apparel_PlateShoulderpads",
-      "price": 181
+      "price": 91
     },
     {
       "abr": "plinth",
@@ -10534,7 +10534,7 @@
       "abr": "prestigesiegebreakerarmor",
       "category": "Armor",
       "defname": "VAE_Apparel_RoyalSiegeArmor",
-      "price": 6758
+      "price": 3379
     },
     {
       "abr": "prestigesiegebreakerhelmet",
@@ -10546,7 +10546,7 @@
       "abr": "prestigetrooperarmor",
       "category": "Armor",
       "defname": "VAE_Apparel_RoyalTrooperArmor",
-      "price": 2425
+      "price": 1213
     },
     {
       "abr": "prestigetrooperhelmet",
@@ -10558,7 +10558,7 @@
       "abr": "privateerarmor",
       "category": "Armor",
       "defname": "VFEP_Apparel_Privateer",
-      "price": 3692
+      "price": 1846
     },
     {
       "abr": "psytrainer(blindingpulse)",
@@ -10726,7 +10726,7 @@
       "abr": "quiltedvest",
       "category": "Armor",
       "defname": "VAE_Apparel_QuiltedVest",
-      "price": 210
+      "price": 105
     },
     {
       "abr": "rabbitcat",
@@ -11026,7 +11026,7 @@
       "abr": "siegebreakerarmor",
       "category": "Armor",
       "defname": "VAE_Apparel_HeavyMarineArmor",
-      "price": 5367
+      "price": 2684
     },
     {
       "abr": "siegebreakerhelmet",
@@ -11470,7 +11470,7 @@
       "abr": "trooperarmor",
       "category": "Armor",
       "defname": "VAE_Apparel_TrooperArmor",
-      "price": 1917
+      "price": 959
     },
     {
       "abr": "trooperhelmet",
@@ -11860,7 +11860,7 @@
       "abr": "woodenarmor",
       "category": "Armor",
       "defname": "VAE_Apparel_WoodenArmor",
-      "price": 300
+      "price": 150
     },
     {
       "abr": "zombrella",
@@ -11914,7 +11914,7 @@
       "abr": "simiancuirass",
       "category": "Armor",
       "defname": "ApePlanet_SimianCuirass",
-      "price": 658
+      "price": 329
     },
     {
       "abr": "simianhelmet",
