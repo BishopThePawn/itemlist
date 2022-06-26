@@ -1,4 +1,4 @@
-﻿{
+{
   "traits": [
     {
       "description": "Timmy enjoys the feeling of freedom that comes from being nude. he can handle clothing, but will be happier without it.",
@@ -480,9 +480,9 @@
         "jealous",
         "gourmand"
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -502,7 +502,7 @@
       "name": "ascetic",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
+      "addPrice": 1,
       "removePrice": 1,
       "degree": 0
     },
