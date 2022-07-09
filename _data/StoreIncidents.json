@@ -96,11 +96,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "resourcepodcrash",
-		"price": 300,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "tradercaravan",
 		"price": 275,
 		"karmatype": "Good"
@@ -114,11 +109,6 @@
 		"abr": "meteor",
 		"price": 150,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "madanimal",
-		"price": 200,
-		"karmatype": "Bad"
 	},
 	{
 		"abr": "psychicdrone",
@@ -216,11 +206,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "reviveanypawn",
-		"price": 1200,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "pawn",
 		"price": 1,
 		"karmatype": "Good"
@@ -266,16 +251,6 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "reviveall",
-		"price": 22664,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "reviveme",
-		"price": 2833,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "healall",
 		"price": 17336,
 		"karmatype": "Good"
@@ -287,7 +262,7 @@
 	},
 	{
 		"abr": "healme",
-		"price": 2167,
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
@@ -386,36 +361,6 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "stalkingarcticlion",
-		"price": 1000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "stalkingsnowclutchmother",
-		"price": 2000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "stalkingduneclutchmother",
-		"price": 2000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "stalkingclutchmother",
-		"price": 2000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "SummitCrabRaid",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "cactipinedroppod",
-		"price": 1000,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "gallatrosswanderin",
 		"price": 1400,
 		"karmatype": "Good"
@@ -433,11 +378,6 @@
 	{
 		"abr": "raidmechanoidsappers",
 		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "fungalhuskwandersin",
-		"price": 600,
 		"karmatype": "Bad"
 	},
 	{
@@ -481,16 +421,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "cargopodsweapons",
-		"price": 1000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "cargopodsapparel",
-		"price": 1000,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "cropsprout",
 		"price": 600,
 		"karmatype": "Good"
@@ -501,5 +431,5 @@
 		"karmatype": "Bad"
 	}
 	],
-	"total": 100
+	"total": 86
 }

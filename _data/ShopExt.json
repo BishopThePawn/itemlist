@@ -1,4 +1,4 @@
-{
+﻿{
   "traits": [
     {
       "description": "Timmy enjoys the feeling of freedom that comes from being nude. he can handle clothing, but will be happier without it.",
@@ -2337,158 +2337,6 @@
       "addPrice": 1000,
       "removePrice": 1,
       "degree": -1
-    },
-    {
-      "description": "Timmy is a biotic god.",
-      "stats": [
-        "x50 biotic energy limit",
-        "x50 biotic energy recovery rate"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Rim-Effect: Core",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "x50 biotic energy limit",
-          "x50 biotic energy recovery rate"
-        ]
-      },
-      "defName": "RE_BioticGod",
-      "name": "bioticgod",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1,
-      "degree": 0
-    },
-    {
-      "description": "Timmy’s biotic capabilities are significantly dampened by past trauma, or simply the lack of predisposition.",
-      "stats": [
-        "-0.8 biotic energy recovery rate"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Rim-Effect: Core",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "-0.8 biotic energy recovery rate"
-        ]
-      },
-      "defName": "RE_BioticRecoveryOffset",
-      "name": "bioticallydeaf",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1,
-      "degree": -2
-    },
-    {
-      "description": "Timmy has not yet unlocked their full biotic potential, and most likely never will.",
-      "stats": [
-        "-0.5 biotic energy recovery rate"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Rim-Effect: Core",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "-0.5 biotic energy recovery rate"
-        ]
-      },
-      "defName": "RE_BioticRecoveryOffset",
-      "name": "bioticallydull",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1,
-      "degree": -1
-    },
-    {
-      "description": "Timmy’s biotic skills are greatly above average, allowing them to use the power without any fear of migraines or discomfort.",
-      "stats": [
-        "+0.5 biotic energy recovery rate"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Rim-Effect: Core",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+0.5 biotic energy recovery rate"
-        ]
-      },
-      "defName": "RE_BioticRecoveryOffset",
-      "name": "bioticallyskilled",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1,
-      "degree": 1
-    },
-    {
-      "description": "Timmy’s biotic skills are known far and wide across the galaxy due to their talent and rare predisposition.",
-      "stats": [
-        "+2 biotic energy recovery rate"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Rim-Effect: Core",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+2 biotic energy recovery rate"
-        ]
-      },
-      "defName": "RE_BioticRecoveryOffset",
-      "name": "bioticallytalented",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1,
-      "degree": 2
     },
     {
       "description": "A strict principle of nonviolence which applies to all living things.",
@@ -5837,40 +5685,6 @@
       "degree": 0
     },
     {
-      "description": "Timmy is a Demon of the Night Winds.",
-      "stats": [
-        "x150% biotic energy limit",
-        "x200% biotic energy recovery rate",
-        "x50% biotic ability cost multiplier"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Rim-Effect: Asari and Reapers",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "x150% biotic energy limit",
-          "x200% biotic energy recovery rate",
-          "x50% biotic ability cost multiplier"
-        ]
-      },
-      "defName": "RE_ArdatYakshi",
-      "name": "ardatyakshi",
-      "canAdd": false,
-      "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1,
-      "degree": 0
-    },
-    {
       "description": "Timmy is entombed in a warcasket. No amount of pain will have an effect on them, and they can never go into a pain shock or drop unconscious due to pain. Because of how bulky the armor is and how much energy it takes to use it, Timmy is not capable of doing any work.",
       "stats": [
 
@@ -5894,8 +5708,8 @@
       },
       "defName": "VFEP_WarcasketTrait",
       "name": "warcasket",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0
@@ -5924,8 +5738,8 @@
       },
       "defName": "VFEP_Shellcasket",
       "name": "shellcasket",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0
@@ -5950,124 +5764,8 @@
       },
       "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
       "defName": "Human",
-      "enabled": false,
+      "enabled": true,
       "name": "human",
-      "price": 4000
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+70% Flammability",
-          "+$2000 Market value",
-          "+4.60 Move speed",
-          "+16.0C Minimum comfortable temperature",
-          "+26.0C Maximum comfortable temperature",
-          "+50 Leather amount",
-          "+4 Honor value",
-          "+2.0 Beauty",
-          "+2 Biotic energy limit",
-          "+1 Biotic energy recovery rate",
-          "+100.0% Biotic ability cost multiplier"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Elegant mono-gender race. Native to the planet Thessia, Asari are often considered the most influential and respected sentient species in the galaxy, and are known for their, diplomacy and biotic aptitude. Asari can often use biotic powers without the need of biotic amplifiers.\n<i><b><color=#1CFF08FF>Rim-Effect: Asari and Reapers</color></b></i>",
-      "defName": "RE_Asari",
-      "enabled": false,
-      "name": "asari",
-      "price": 4000
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+70% Flammability",
-          "+$1750 Market value",
-          "+4.60 Move speed",
-          "+8.0C Minimum comfortable temperature",
-          "+32.0C Maximum comfortable temperature",
-          "+50 Leather amount",
-          "+3 Honor value"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "The most common simian on this world, they are seen in almost every role of simian society from labourers to scientists.\n<i><b><color=#1CFF08FF>Planet of the Apes</color></b></i>",
-      "defName": "ApePlanet_Chimp",
-      "enabled": true,
-      "name": "Chimp",
-      "price": 4000
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+70% Flammability",
-          "+$1750 Market value",
-          "+4.80 Move speed",
-          "+8.0C Minimum comfortable temperature",
-          "+32.0C Maximum comfortable temperature",
-          "+50 Leather amount",
-          "+3 Honor value"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A rare sight in simian society, Bonobos are often lumped in with chimpanzees due to the similarities between them and so also follow similar roles in their community.\n<i><b><color=#1CFF08FF>Planet of the Apes</color></b></i>",
-      "defName": "ApePlanet_Bonobo",
-      "enabled": true,
-      "name": "Bonobo",
-      "price": 4000
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+70% Flammability",
-          "+$1750 Market value",
-          "+5.20 Move speed",
-          "+8.0C Minimum comfortable temperature",
-          "+32.0C Maximum comfortable temperature",
-          "+50 Leather amount",
-          "+3 Honor value"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Gorillas are typically seen in simian society performing more violent tasks, like guards or soldiers, it's rare that one does not end up in one of these roles.\n<i><b><color=#1CFF08FF>Planet of the Apes</color></b></i>",
-      "defName": "ApePlanet_Gorilla",
-      "enabled": true,
-      "name": "Gorilla",
-      "price": 4000
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+70% Flammability",
-          "+$1750 Market value",
-          "+4.20 Move speed",
-          "+8.0C Minimum comfortable temperature",
-          "+32.0C Maximum comfortable temperature",
-          "+50 Leather amount",
-          "+3 Honor value",
-          "+75% Global certainty loss factor",
-          "+150% Ideoligion spread chance"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Orangutans have, despite being one of the least common simians, become leaders of simian societies across the planet, intelligent, manipulative and corrupt they make excellent politicians.\n<i><b><color=#1CFF08FF>Planet of the Apes</color></b></i>",
-      "defName": "ApePlanet_Orangutan",
-      "enabled": true,
-      "name": "Orangutan",
       "price": 4000
     }
   ]
