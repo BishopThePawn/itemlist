@@ -102,6 +102,18 @@
     "version": null
   },
   {
+    "author": "Erin",
+    "name": "Erin's Azaphrae",
+    "steamId": "2835600618",
+    "version": "1.0.8228.25055"
+  },
+  {
+    "author": "Erin",
+    "name": "Erin's Viera",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
     "name": "Vanilla Cooking Expanded",
     "steamId": "2134308519",
@@ -688,6 +700,12 @@
     "name": "Dubs Mint Menus",
     "steamId": "1446523594",
     "version": "1.0.0"
+  },
+  {
+    "author": "Inglix",
+    "name": "Faster Biosculpter Pod",
+    "steamId": "2576257954",
+    "version": "2.8.2.0"
   },
   {
     "author": "Epicguru (James B)",

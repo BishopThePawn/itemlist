@@ -389,42 +389,6 @@
       "mod": "ToolkitUtils"
     },
     "description": null,
-    "name": "Revive all",
-    "usage": "!reviveall",
-    "userLevel": "Anyone",
-    "shortcut": true,
-    "defName": "ReviveAllShortcut"
-  },
-  {
-    "data": {
-      "isShortcut": true,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": null,
-    "name": "Revive me",
-    "usage": "!reviveme",
-    "userLevel": "Anyone",
-    "shortcut": true,
-    "defName": "ReviveMeShortcut"
-  },
-  {
-    "data": {
-      "isShortcut": true,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": null,
     "name": "Heal me",
     "usage": "!healme",
     "userLevel": "Anyone",
@@ -520,24 +484,6 @@
     "userLevel": "Anyone",
     "shortcut": true,
     "defName": "RemoveTraitShortcut"
-  },
-  {
-    "data": {
-      "isShortcut": true,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": null,
-    "name": "Revive any pawn",
-    "usage": "!reviveanypawn",
-    "userLevel": "Anyone",
-    "shortcut": true,
-    "defName": "ReviveAnyPawnShortcut"
   },
   {
     "data": {
