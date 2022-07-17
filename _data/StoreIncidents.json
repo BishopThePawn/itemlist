@@ -181,6 +181,11 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "sapperraid",
+		"price": 5000,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "infestation",
 		"price": 1500,
 		"karmatype": "Bad"
@@ -377,7 +382,7 @@
 	},
 	{
 		"abr": "raidmechanoidsappers",
-		"price": 1500,
+		"price": 5000,
 		"karmatype": "Bad"
 	},
 	{
@@ -431,5 +436,5 @@
 		"karmatype": "Bad"
 	}
 	],
-	"total": 86
+	"total": 87
 }
