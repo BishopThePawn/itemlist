@@ -12,6 +12,12 @@
     "version": "3.3.0.0"
   },
   {
+    "author": "m00nl1ght-dev",
+    "name": "Geological Landforms",
+    "steamId": "2773943594",
+    "version": "1.4.3.0"
+  },
+  {
     "author": "Oskar Potocki,  XeoNovaDan,  Orion,  Kikohi,  Taranchuk,  Sarg Bjornson and  Erdelf",
     "name": "Vanilla Expanded Framework",
     "steamId": "2023507013",
@@ -48,6 +54,24 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Erin and  xrushha",
+    "name": "Erin's Miqo'te",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Erin and  xrushha",
+    "name": "Erin's Au Ra",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Evil Tactician",
     "name": "Practical Pemmican",
     "steamId": null,
@@ -58,12 +82,6 @@
     "name": "Vanilla Weapons Expanded - Non-Lethal",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "erdelf",
-    "name": "Humanoid Alien Races",
-    "steamId": "839005762",
-    "version": "1.0.0.0"
   },
   {
     "author": "Shenanigans",
@@ -186,6 +204,12 @@
     "version": "2.17.133"
   },
   {
+    "author": "Oskar Potocki,  Taranchuk and  xrushha",
+    "name": "Vanilla Ideology Expanded - Anima Theme",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Uuugggg",
     "name": "Build From Inventory",
     "steamId": "1691419062",
@@ -252,6 +276,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
+    "name": "Vanilla Brewing Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "FrozenSnowFox",
     "name": "[FSF] Complex Jobs",
     "steamId": null,
@@ -291,7 +321,7 @@
     "author": "erdelf,  Oskar Potocki,  legodude17,  Taranchuk,  xrushha,  Sarg Bjornson,  Sir Van and  Reann Shepard",
     "name": "Vanilla Psycasts Expanded",
     "steamId": "2842502659",
-    "version": "1.0.0.0"
+    "version": "1.1.0.0"
   },
   {
     "author": "AncientGammoner",
@@ -440,6 +470,12 @@
   {
     "author": "Jaxe",
     "name": "RimHUD",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "MrRavenFace",
+    "name": "Player Faction Icon : Tophat",
     "steamId": null,
     "version": null
   },
@@ -732,8 +768,8 @@
     "version": "2.8.2.0"
   },
   {
-    "author": "SirMashedPotato",
-    "name": "Mashed's Spiribirds",
+    "author": "Oskar Potocki,  Sarg Bjornson,  Taranchuk and  Reann Shepard",
+    "name": "Vanilla Ideology Expanded - Dryads",
     "steamId": null,
     "version": null
   },

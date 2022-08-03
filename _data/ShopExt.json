@@ -1,4 +1,4 @@
-{
+﻿{
   "traits": [
     {
       "description": "Timmy enjoys the feeling of freedom that comes from being nude. he can handle clothing, but will be happier without it.",
@@ -7483,6 +7483,78 @@
       "enabled": true,
       "name": "Viera",
       "price": 4000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value",
+          "+0.1 Melee dodge chance",
+          "+0.1 Shooting accuracy"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "The Miqo'te are a race of xenohumans first recorded by the Ordo Historia on the world of Eorzea, although their origins are shrouded in mystery, but certain biological adaptations, particularly the presence of two major ethnicities and cultural groupings defined by a diurnal or nocturnal preference suggest that yet another world may have been their home. All Miqo'te have feline ears and tails, a sharp sense of smell and powerful leg muscles making them natural hunters. A quirk resulting from their gene-engineered origins means that male Miqo’te are exceedingly rare, representing about one-tenth of the population.\n<i><b><color=#1CFF08FF>Erin's Miqo'te</color></b></i>",
+      "defName": "MQT_Miqote",
+      "enabled": true,
+      "name": "miqo'te",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+18.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value",
+          "+95% Incoming damage multiplier",
+          "+2.0 Beauty"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "One of the races of xenohumans discovered on the distant world of Eorzea.  This race in particular sports lizard-like scales and tails and sensory horns in place of human ears, bringing to mind Old Terra's legends of dragons.  There is a split between dark and light scales leading to a cultural divide, but otherwise appear to be of the same race.  Records translated from many old Eorzean tomes indicate that at one time there appeared to be a large sexual dimorphism of size in the Au Ra, but centuries of evolution - and potentially breeding with other humanlike races - has eliminated any size differences between both genders and species.  It is currently unknown if the same geneticists responsible for the Miqo'te had their hand in the Au Ra as well.\n<i><b><color=#1CFF08FF>Erin's Au Ra</color></b></i>",
+      "defName": "AURA_Raen",
+      "enabled": true,
+      "name": "Au Ra",
+      "price": 2917
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+18.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value",
+          "+95% Incoming damage multiplier",
+          "+2.0 Beauty"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "One of the races of xenohumans discovered on the distant world of Eorzea.  This race in particular sports lizard-like scales and tails and sensory horns in place of human ears, bringing to mind Old Terra's legends of dragons.  There is a split between dark and light scales leading to a cultural divide, but otherwise appear to be of the same race.  Records translated from many old Eorzean tomes indicate that at one time there appeared to be a large sexual dimorphism of size in the Au Ra, but centuries of evolution - and potentially breeding with other humanlike races - has eliminated any size differences between both genders and species.  It is currently unknown if the same geneticists responsible for the Miqo'te had their hand in the Au Ra as well.\n<i><b><color=#1CFF08FF>Erin's Au Ra</color></b></i>",
+      "defName": "AURA_Xaela",
+      "enabled": true,
+      "name": "Au Ra",
+      "price": 2917
     }
   ]
 }
