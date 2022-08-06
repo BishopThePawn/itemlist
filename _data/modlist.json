@@ -114,12 +114,6 @@
     "version": "1.2.0.0"
   },
   {
-    "author": "Error277",
-    "name": "Tunneler Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "BattIeBear",
     "name": "Undergrounders: Complete",
     "steamId": null,
@@ -352,6 +346,12 @@
     "name": "Labels on Floor",
     "steamId": "1408863965",
     "version": "0.5.0.0"
+  },
+  {
+    "author": "Error277",
+    "name": "Tunneler Expanded",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Kikohi",
