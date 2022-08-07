@@ -5986,7 +5986,7 @@
       },
       "defName": "VTE_HeavySleeper",
       "name": "heavysleeper",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 1000,
       "removePrice": 1,
