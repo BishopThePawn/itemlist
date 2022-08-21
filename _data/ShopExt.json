@@ -160,9 +160,9 @@
       "conflicts": [
 
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -178,7 +178,7 @@
       "name": "cannibal",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
+      "addPrice": 1,
       "removePrice": 1,
       "degree": 0
     },
@@ -708,7 +708,7 @@
       "name": "pyromaniac",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
+      "addPrice": 1,
       "removePrice": 1,
       "degree": 0
     },

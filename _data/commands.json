@@ -690,8 +690,8 @@
       "isBalance": false,
       "hasGlobalCooldown": false,
       "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
+      "hasLocalCooldown": true,
+      "localCooldown": 60,
       "mod": "ToolkitUtils"
     },
     "description": "Shows an overview of your pawn's gear.\n<i><b><color=#1CFF08FF>ToolkitUtils</color></b></i>",
