@@ -48,6 +48,12 @@
     "version": null
   },
   {
+    "author": "Fuu Chan",
+    "name": "[Fuu] Auto Strip on Haul",
+    "steamId": "2560725133",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "avilmask",
     "name": "Non uno Pinata (don't drop items)",
     "steamId": "1778821244",
@@ -165,12 +171,6 @@
     "author": "Sarg Bjornson,  Helixien,  Cassie,  Luizi and  Allie",
     "name": "Alpha Memes",
     "steamId": "2661356814",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Fuu Chan",
-    "name": "[Fuu] Auto Strip on Haul",
-    "steamId": "2560725133",
     "version": "1.0.0.0"
   },
   {
@@ -850,6 +850,48 @@
     "name": "What's That Mod",
     "steamId": "2258431182",
     "version": "0.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki and  Sarg Bjornson",
+    "name": "RimWorld - Witcher Monster Hunt",
+    "steamId": "2008529522",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Aelanna",
+    "name": "Eccentric Tech - Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Aelanna",
+    "name": "Eccentric Tech - Angel Apparel",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Aelanna",
+    "name": "Eccentric Tech - Cosmetic Modifications 2.0",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Aelanna",
+    "name": "Eccentric Tech - Flares 2.0",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Aelanna",
+    "name": "Eccentric Tech - Foxy's Armory 2.0",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Aelanna",
+    "name": "Heruan Race",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Krkr",

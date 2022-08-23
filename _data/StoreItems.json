@@ -13367,7 +13367,835 @@
 		"price": 252,
 		"category": "Production",
 		"defname": "VBE_WritersTable"
+	},
+	{
+		"abr": "conventionalpsiamp",
+		"price": 750,
+		"category": "Ranged weapons",
+		"defname": "XCOM_Util_CVPsiAmp"
+	},
+	{
+		"abr": "acgl3grenadelauncher",
+		"price": 4425,
+		"category": "Security",
+		"defname": "Eccentric_Turret_M3ACGL"
+	},
+	{
+		"abr": "angelcombatuniform",
+		"price": 8333,
+		"category": "Eccentric",
+		"defname": "EccentricUniformCombat"
+	},
+	{
+		"abr": "angelguardianuniform",
+		"price": 10000,
+		"category": "Eccentric",
+		"defname": "EccentricUniformGuardian"
+	},
+	{
+		"abr": "angelleaderuniform",
+		"price": 10000,
+		"category": "Eccentric",
+		"defname": "EccentricUniformLeader"
+	},
+	{
+		"abr": "angeltechuniform",
+		"price": 8333,
+		"category": "Eccentric",
+		"defname": "EccentricUniformTech"
+	},
+	{
+		"abr": "angelworkeruniform",
+		"price": 6667,
+		"category": "Eccentric",
+		"defname": "EccentricUniformWorker"
+	},
+	{
+		"abr": "apsaraundersuit",
+		"price": 6667,
+		"category": "Eccentric",
+		"defname": "EccentricUndersuitApsara"
+	},
+	{
+		"abr": "arelundersuit",
+		"price": 9167,
+		"category": "Eccentric",
+		"defname": "EccentricUndersuitArel"
+	},
+	{
+		"abr": "auroracore",
+		"price": 8467,
+		"category": "Misc",
+		"defname": "EccentricAuroraCore"
+	},
+	{
+		"abr": "basilisk",
+		"price": 583,
+		"category": "Animals",
+		"defname": "WMH_Basilisk"
+	},
+	{
+		"abr": "basilisktrophy(grand)",
+		"price": 1375,
+		"category": "Trophies",
+		"defname": "WMHT_TrophyGrandBasilisk"
+	},
+	{
+		"abr": "beartail",
+		"price": 442,
+		"category": "Bionic",
+		"defname": "EccentricTailBear"
+	},
+	{
+		"abr": "bearofleet",
+		"price": 200,
+		"category": "Animals",
+		"defname": "WMH_Bearofleet"
+	},
+	{
+		"abr": "bearofleettrophy(grand)",
+		"price": 1258,
+		"category": "Trophies",
+		"defname": "WMHT_TrophyGrandBearofleet"
+	},
+	{
+		"abr": "blackbearear",
+		"price": 525,
+		"category": "Bionic",
+		"defname": "EccentricEarBlackBear"
+	},
+	{
+		"abr": "bluechemlight",
+		"price": 151,
+		"category": "Grenades",
+		"defname": "EccentricChemlightBlue"
+	},
+	{
+		"abr": "brownbearear",
+		"price": 525,
+		"category": "Bionic",
+		"defname": "EccentricEarBrownBear"
+	},
+	{
+		"abr": "bullhorn",
+		"price": 517,
+		"category": "Bionic",
+		"defname": "EccentricHornBull"
+	},
+	{
+		"abr": "bulltail",
+		"price": 442,
+		"category": "Bionic",
+		"defname": "EccentricTailBull"
+	},
+	{
+		"abr": "catear",
+		"price": 525,
+		"category": "Bionic",
+		"defname": "EccentricEarCat"
+	},
+	{
+		"abr": "cattail",
+		"price": 442,
+		"category": "Bionic",
+		"defname": "EccentricTailCat"
+	},
+	{
+		"abr": "caw5hedp",
+		"price": 1992,
+		"category": "Ranged weapons",
+		"defname": "Eccentric_Gun_M5CAW"
+	},
+	{
+		"abr": "cgl1grenadelauncher",
+		"price": 3700,
+		"category": "Ranged weapons",
+		"defname": "Eccentric_Gun_M1CGL"
+	},
+	{
+		"abr": "chort",
+		"price": 6667,
+		"category": "Animals",
+		"defname": "WMH_Chort"
+	},
+	{
+		"abr": "chorttrophy(grand)",
+		"price": 3600,
+		"category": "Trophies",
+		"defname": "WMHT_TrophyGrandChort"
+	},
+	{
+		"abr": "combathalo",
+		"price": 4167,
+		"category": "Headwear",
+		"defname": "EccentricFrillCombat"
+	},
+	{
+		"abr": "combathalohelmet",
+		"price": 5000,
+		"category": "Headwear",
+		"defname": "EccentricFrillCombatHelmet"
+	},
+	{
+		"abr": "combathalowithglasses",
+		"price": 4167,
+		"category": "Headwear",
+		"defname": "EccentricFrillCombatGlasses"
+	},
+	{
+		"abr": "cyclops",
+		"price": 2500,
+		"category": "Animals",
+		"defname": "WMH_Cyclops"
+	},
+	{
+		"abr": "cyclopstrophy(grand)",
+		"price": 1800,
+		"category": "Trophies",
+		"defname": "WMHT_TrophyGrandCyclops"
+	},
+	{
+		"abr": "darklightchemlight",
+		"price": 151,
+		"category": "Grenades",
+		"defname": "EccentricChemlightDarklight"
+	},
+	{
+		"abr": "diligentmemorysculpture",
+		"price": 1075,
+		"category": "Art",
+		"defname": "Heruan_SculptureDiligent"
+	},
+	{
+		"abr": "diligentmemoryshard",
+		"price": 83,
+		"category": "Memory shards",
+		"defname": "Heruan_ShardDiligent"
+	},
+	{
+		"abr": "djinn",
+		"price": 417,
+		"category": "Animal",
+		"defname": "WMH_Djinn"
+	},
+	{
+		"abr": "djinntrophy",
+		"price": 517,
+		"category": "Trophies",
+		"defname": "WMHT_TrophyLargeDjinn"
+	},
+	{
+		"abr": "e15chargerifle",
+		"price": 1983,
+		"category": "Ranged weapons",
+		"defname": "Eccentric_Gun_E15CR"
+	},
+	{
+		"abr": "e16precisionchargerifle",
+		"price": 2883,
+		"category": "Ranged weapons",
+		"defname": "Eccentric_Gun_E16PR"
+	},
+	{
+		"abr": "e18designatedmarksmanrifle",
+		"price": 2808,
+		"category": "Ranged weapons",
+		"defname": "Eccentric_Gun_E18DMR"
+	},
+	{
+		"abr": "e9cchargecarbine",
+		"price": 2100,
+		"category": "Ranged weapons",
+		"defname": "Eccentric_Gun_E9C"
+	},
+	{
+		"abr": "ekimmara",
+		"price": 750,
+		"category": "Animals",
+		"defname": "WMH_Ekimmara"
+	},
+	{
+		"abr": "ekimmaratrophy",
+		"price": 683,
+		"category": "Trophies",
+		"defname": "WMHT_TrophyLargeEkimmara"
+	},
+	{
+		"abr": "fiend",
+		"price": 6667,
+		"category": "Animals",
+		"defname": "WMH_Fiend"
+	},
+	{
+		"abr": "fiendtrophy(grand)",
+		"price": 2050,
+		"category": "Trophies",
+		"defname": "WMHT_TrophyGrandFiend"
+	},
+	{
+		"abr": "flare",
+		"price": 229,
+		"category": "Grenades",
+		"defname": "Eccentric_Flare"
+	},
+	{
+		"abr": "flaregun",
+		"price": 294,
+		"category": "Ranged weapons",
+		"defname": "Eccentric_FlareGun"
+	},
+	{
+		"abr": "fleder",
+		"price": 750,
+		"category": "Animals",
+		"defname": "WMH_Fleder"
+	},
+	{
+		"abr": "fledertrophy",
+		"price": 717,
+		"category": "Trophies",
+		"defname": "WMHT_TrophyLargeFleder"
+	},
+	{
+		"abr": "fogler",
+		"price": 208,
+		"category": "Animal",
+		"defname": "WMH_Fogler"
+	},
+	{
+		"abr": "foglertrophy",
+		"price": 517,
+		"category": "Trophies",
+		"defname": "WMHT_TrophyLargeFogler"
+	},
+	{
+		"abr": "foxear",
+		"price": 525,
+		"category": "Bionic",
+		"defname": "EccentricEarFox"
+	},
+	{
+		"abr": "foxtail",
+		"price": 442,
+		"category": "Bionic",
+		"defname": "EccentricTailFox"
+	},
+	{
+		"abr": "ghoul",
+		"price": 92,
+		"category": "Animal",
+		"defname": "WMH_Ghoul"
+	},
+	{
+		"abr": "ghoultrophy",
+		"price": 517,
+		"category": "Trophies",
+		"defname": "WMHT_TrophyLargeGhoul"
+	},
+	{
+		"abr": "golem",
+		"price": 417,
+		"category": "Animals",
+		"defname": "WMH_Golem"
+	},
+	{
+		"abr": "golemtrophy(grand)",
+		"price": 1125,
+		"category": "Trophies",
+		"defname": "WMHT_TrophyGrandGolem"
+	},
+	{
+		"abr": "greathornedowltuft",
+		"price": 517,
+		"category": "Bionic",
+		"defname": "EccentricHornGreatHornedOwl"
+	},
+	{
+		"abr": "greenchemlight",
+		"price": 151,
+		"category": "Grenades",
+		"defname": "EccentricChemlightGreen"
+	},
+	{
+		"abr": "heruan",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "Aelanna_Heruan"
+	},
+	{
+		"abr": "heruandagger",
+		"price": 483,
+		"category": "Melee weapons",
+		"defname": "Heruan_Dagger"
+	},
+	{
+		"abr": "heruankhopesh",
+		"price": 1192,
+		"category": "Melee weapons",
+		"defname": "Heruan_Khopesh"
+	},
+	{
+		"abr": "heruanmeat",
+		"price": 1,
+		"category": "Meat",
+		"defname": "Meat_Aelanna_Heruan"
+	},
+	{
+		"abr": "heruansolarlance",
+		"price": 2508,
+		"category": "Melee weapons",
+		"defname": "Heruan_SolarLance"
+	},
+	{
+		"abr": "high-densityhex-cell",
+		"price": 417,
+		"category": "Manufactured",
+		"defname": "Eccentric_HexCell"
+	},
+	{
+		"abr": "horseear",
+		"price": 525,
+		"category": "Bionic",
+		"defname": "EccentricEarHorse"
+	},
+	{
+		"abr": "horsetail",
+		"price": 442,
+		"category": "Bionic",
+		"defname": "EccentricTailHorse"
+	},
+	{
+		"abr": "hym",
+		"price": 292,
+		"category": "Animal",
+		"defname": "WMH_Hym"
+	},
+	{
+		"abr": "hymtrophy",
+		"price": 517,
+		"category": "Trophies",
+		"defname": "WMHT_TrophyLargeHym"
+	},
+	{
+		"abr": "illuminationshell",
+		"price": 92,
+		"category": "Mortar shells",
+		"defname": "Eccentric_IlluminationShell"
+	},
+	{
+		"abr": "insightfulmemorysculpture",
+		"price": 1075,
+		"category": "Art",
+		"defname": "Heruan_SculptureInsightful"
+	},
+	{
+		"abr": "insightfulmemoryshard",
+		"price": 83,
+		"category": "Memory shards",
+		"defname": "Heruan_ShardInsightful"
+	},
+	{
+		"abr": "kikimorequeen",
+		"price": 750,
+		"category": "Animals",
+		"defname": "WMH_KikimoreQueen"
+	},
+	{
+		"abr": "kikimoretrophy(grand)",
+		"price": 1125,
+		"category": "Trophies",
+		"defname": "WMHT_TrophyGrandKikimore"
+	},
+	{
+		"abr": "kikimorewarrior",
+		"price": 333,
+		"category": "Animals",
+		"defname": "WMAux_KikimoreWarrior"
+	},
+	{
+		"abr": "kikimoreworker",
+		"price": 167,
+		"category": "Animals",
+		"defname": "WMAux_KikimoreWorker"
+	},
+	{
+		"abr": "l20cchargelmg",
+		"price": 3083,
+		"category": "Ranged weapons",
+		"defname": "Eccentric_Gun_L20C"
+	},
+	{
+		"abr": "l32machinegun",
+		"price": 3058,
+		"category": "Security",
+		"defname": "Eccentric_Turret_L32MG"
+	},
+	{
+		"abr": "labradordogear",
+		"price": 525,
+		"category": "Bionic",
+		"defname": "EccentricEarLabrador"
+	},
+	{
+		"abr": "labradordogtail",
+		"price": 442,
+		"category": "Bionic",
+		"defname": "EccentricTailLabrador"
+	},
+	{
+		"abr": "leshy",
+		"price": 2500,
+		"category": "Animals",
+		"defname": "WMH_Leshy"
+	},
+	{
+		"abr": "leshytrophy",
+		"price": 517,
+		"category": "Trophies",
+		"defname": "WMHT_TrophyLargeLeshy"
+	},
+	{
+		"abr": "lunarrobe",
+		"price": 2108,
+		"category": "Heruan",
+		"defname": "Heruan_LunarArmor"
+	},
+	{
+		"abr": "m3rosethorn",
+		"price": 450,
+		"category": "Melee weapons",
+		"defname": "Eccentric_Rosethorn"
+	},
+	{
+		"abr": "mainecooncattail",
+		"price": 442,
+		"category": "Bionic",
+		"defname": "EccentricTailMaineCoon"
+	},
+	{
+		"abr": "mainecoonear",
+		"price": 525,
+		"category": "Bionic",
+		"defname": "EccentricEarMaineCoon"
+	},
+	{
+		"abr": "memoryrecorder",
+		"price": 492,
+		"category": "Heruan",
+		"defname": "Heruan_MemoryRecorder"
+	},
+	{
+		"abr": "monstermeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_WMH_Chort"
+	},
+	{
+		"abr": "mouseear",
+		"price": 525,
+		"category": "Bionic",
+		"defname": "EccentricEarMouse"
+	},
+	{
+		"abr": "mousetail",
+		"price": 442,
+		"category": "Bionic",
+		"defname": "EccentricTailMouse"
+	},
+	{
+		"abr": "nanoassembler",
+		"price": 7808,
+		"category": "Production",
+		"defname": "EccentricNanoassembler"
+	},
+	{
+		"abr": "nanofabricator",
+		"price": 4992,
+		"category": "Production",
+		"defname": "EccentricNanofabricator"
+	},
+	{
+		"abr": "nanoweave",
+		"price": 15,
+		"category": "Textiles",
+		"defname": "Eccentric_Nanoweave"
+	},
+	{
+		"abr": "nanoweaveapron",
+		"price": 2500,
+		"category": "Gear",
+		"defname": "EccentricApron"
+	},
+	{
+		"abr": "nanoweavehalf-apron",
+		"price": 2500,
+		"category": "Gear",
+		"defname": "EccentricApronHalf"
+	},
+	{
+		"abr": "nanoweavetacticalgear",
+		"price": 4167,
+		"category": "Gear",
+		"defname": "EccentricLBEBasic"
+	},
+	{
+		"abr": "nanoweavetechapron",
+		"price": 3333,
+		"category": "Gear",
+		"defname": "EccentricApronTech"
+	},
+	{
+		"abr": "nekker",
+		"price": 25,
+		"category": "Animals",
+		"defname": "WMH_Nekker"
+	},
+	{
+		"abr": "nekkertrophy",
+		"price": 617,
+		"category": "Trophies",
+		"defname": "WMHT_TrophyLargeNekker"
+	},
+	{
+		"abr": "nurturingmemorysculpture",
+		"price": 1075,
+		"category": "Art",
+		"defname": "Heruan_SculptureNurturing"
+	},
+	{
+		"abr": "nurturingmemoryshard",
+		"price": 83,
+		"category": "Memory shards",
+		"defname": "Heruan_ShardNurturing"
+	},
+	{
+		"abr": "onihorn",
+		"price": 517,
+		"category": "Bionic",
+		"defname": "EccentricHornOni"
+	},
+	{
+		"abr": "owltail",
+		"price": 442,
+		"category": "Bionic",
+		"defname": "EccentricTailOwl"
+	},
+	{
+		"abr": "p12chargepdw",
+		"price": 1158,
+		"category": "Ranged weapons",
+		"defname": "Eccentric_Gun_P12PDW"
+	},
+	{
+		"abr": "p17sentrygun",
+		"price": 2167,
+		"category": "Security",
+		"defname": "Eccentric_Turret_P17SG"
+	},
+	{
+		"abr": "rabbitear",
+		"price": 525,
+		"category": "Bionic",
+		"defname": "EccentricEarRabbit"
+	},
+	{
+		"abr": "rabbittail",
+		"price": 442,
+		"category": "Bionic",
+		"defname": "EccentricTailRabbit"
+	},
+	{
+		"abr": "ramhorn",
+		"price": 517,
+		"category": "Bionic",
+		"defname": "EccentricHornRam"
+	},
+	{
+		"abr": "redchemlight",
+		"price": 151,
+		"category": "Grenades",
+		"defname": "EccentricChemlightRed"
+	},
+	{
+		"abr": "s8chargepistol",
+		"price": 942,
+		"category": "Ranged weapons",
+		"defname": "Eccentric_Gun_S8P"
+	},
+	{
+		"abr": "seraphundersuit",
+		"price": 6667,
+		"category": "Eccentric",
+		"defname": "EccentricUndersuitSeraph"
+	},
+	{
+		"abr": "shepherddogear",
+		"price": 525,
+		"category": "Bionic",
+		"defname": "EccentricEarShepherd"
+	},
+	{
+		"abr": "shepherddogtail",
+		"price": 442,
+		"category": "Bionic",
+		"defname": "EccentricTailShepherd"
+	},
+	{
+		"abr": "siamesecatear",
+		"price": 525,
+		"category": "Bionic",
+		"defname": "EccentricEarSiamese"
+	},
+	{
+		"abr": "siamesecattail",
+		"price": 442,
+		"category": "Bionic",
+		"defname": "EccentricTailSiamese"
+	},
+	{
+		"abr": "solararmor",
+		"price": 3000,
+		"category": "Heruan",
+		"defname": "Heruan_SolarArmor"
+	},
+	{
+		"abr": "stellargown",
+		"price": 2108,
+		"category": "Heruan",
+		"defname": "Heruan_StellarArmor"
+	},
+	{
+		"abr": "terrierdogear",
+		"price": 525,
+		"category": "Bionic",
+		"defname": "EccentricEarTerrier"
+	},
+	{
+		"abr": "terrierdogtail",
+		"price": 442,
+		"category": "Bionic",
+		"defname": "EccentricTailTerrier"
+	},
+	{
+		"abr": "thrumbohorn",
+		"price": 517,
+		"category": "Bionic",
+		"defname": "EccentricHornThrumbo"
+	},
+	{
+		"abr": "triunecirclet",
+		"price": 642,
+		"category": "Heruan",
+		"defname": "Heruan_Circlet"
+	},
+	{
+		"abr": "triunehelmet",
+		"price": 775,
+		"category": "Heruan",
+		"defname": "Heruan_Helmet"
+	},
+	{
+		"abr": "triunepistol",
+		"price": 1225,
+		"category": "Ranged weapons",
+		"defname": "Heruan_TriunePistol"
+	},
+	{
+		"abr": "triunerifle",
+		"price": 1683,
+		"category": "Ranged weapons",
+		"defname": "Heruan_TriuneRifle"
+	},
+	{
+		"abr": "triuneundersuit",
+		"price": 642,
+		"category": "Heruan",
+		"defname": "Heruan_Undersuit"
+	},
+	{
+		"abr": "tumultuousmemorysculpture",
+		"price": 1075,
+		"category": "Art",
+		"defname": "Heruan_SculptureTumultuous"
+	},
+	{
+		"abr": "tumultuousmemoryshard",
+		"price": 83,
+		"category": "Memory shards",
+		"defname": "Heruan_ShardTumultuous"
+	},
+	{
+		"abr": "unicornhorn",
+		"price": 517,
+		"category": "Bionic",
+		"defname": "EccentricHornUnicorn"
+	},
+	{
+		"abr": "utilityhalo",
+		"price": 2500,
+		"category": "Headwear",
+		"defname": "EccentricFrillWorker"
+	},
+	{
+		"abr": "utilityhalohelmet",
+		"price": 3000,
+		"category": "Headwear",
+		"defname": "EccentricFrillWorkerHelmet"
+	},
+	{
+		"abr": "werewolf",
+		"price": 750,
+		"category": "Animals",
+		"defname": "WMH_Werewolf"
+	},
+	{
+		"abr": "werewolftrophy",
+		"price": 692,
+		"category": "Trophies",
+		"defname": "WMHT_TrophyLargeWerewolf"
+	},
+	{
+		"abr": "wolfear",
+		"price": 525,
+		"category": "Bionic",
+		"defname": "EccentricEarWolf"
+	},
+	{
+		"abr": "wolftail",
+		"price": 442,
+		"category": "Bionic",
+		"defname": "EccentricTailWolf"
+	},
+	{
+		"abr": "wraith",
+		"price": 292,
+		"category": "Animal",
+		"defname": "WMH_Wraith"
+	},
+	{
+		"abr": "wraithtrophy",
+		"price": 517,
+		"category": "Trophies",
+		"defname": "WMHT_TrophyLargeWraith"
+	},
+	{
+		"abr": "wyvern",
+		"price": 583,
+		"category": "Animals",
+		"defname": "WMH_Wyvern"
+	},
+	{
+		"abr": "wyverntrophy(grand)",
+		"price": 1375,
+		"category": "Trophies",
+		"defname": "WMHT_TrophyGrandWyvern"
+	},
+	{
+		"abr": "yellowchemlight",
+		"price": 151,
+		"category": "Grenades",
+		"defname": "EccentricChemlightYellow"
 	}
 	],
-	"total": 2228
+	"total": 2366
 }
