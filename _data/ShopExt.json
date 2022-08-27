@@ -5596,7 +5596,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Fallout Traits",
         "karmaTypeForAdding": null,
@@ -5617,7 +5617,7 @@
         ]
       },
       "defName": "FT_Perfectionist",
-      "name": "perfectionist",
+      "name": "perfectionist1",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1000,
@@ -5785,7 +5785,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "Vanilla Traits Expanded",
         "karmaTypeForAdding": null,
@@ -5797,7 +5797,7 @@
         ]
       },
       "defName": "VTE_Perfectionist",
-      "name": "perfectionist",
+      "name": "perfectionist2",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1000,
