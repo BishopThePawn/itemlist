@@ -11545,12 +11545,6 @@
       "price": 32400
     },
     {
-      "abr": "staffofroyalty",
-      "category": "Melee weapons",
-      "defname": "TitularRoyalty_Staff",
-      "price": -10
-    },
-    {
       "abr": "agedprickleinstanoodle",
       "category": "Meals",
       "defname": "Meal_BDsInstantNoodle_Prickle",
@@ -13441,12 +13435,6 @@
       "price": -10
     },
     {
-      "abr": "beartail",
-      "category": "Bionic",
-      "defname": "EccentricTailBear",
-      "price": 221
-    },
-    {
       "abr": "bearofleet",
       "category": "Animals",
       "defname": "WMH_Bearofleet",
@@ -13457,48 +13445,6 @@
       "category": "Trophies",
       "defname": "WMHT_TrophyGrandBearofleet",
       "price": -10
-    },
-    {
-      "abr": "blackbearear",
-      "category": "Bionic",
-      "defname": "EccentricEarBlackBear",
-      "price": 263
-    },
-    {
-      "abr": "bluechemlight",
-      "category": "Grenades",
-      "defname": "EccentricChemlightBlue",
-      "price": 76
-    },
-    {
-      "abr": "brownbearear",
-      "category": "Bionic",
-      "defname": "EccentricEarBrownBear",
-      "price": 263
-    },
-    {
-      "abr": "bullhorn",
-      "category": "Bionic",
-      "defname": "EccentricHornBull",
-      "price": 259
-    },
-    {
-      "abr": "bulltail",
-      "category": "Bionic",
-      "defname": "EccentricTailBull",
-      "price": 221
-    },
-    {
-      "abr": "catear",
-      "category": "Bionic",
-      "defname": "EccentricEarCat",
-      "price": 263
-    },
-    {
-      "abr": "cattail",
-      "category": "Bionic",
-      "defname": "EccentricTailCat",
-      "price": 221
     },
     {
       "abr": "caw5hedp",
@@ -13552,12 +13498,6 @@
       "abr": "cyclopstrophy(grand)",
       "category": "Trophies",
       "defname": "WMHT_TrophyGrandCyclops",
-      "price": -10
-    },
-    {
-      "abr": "darklightchemlight",
-      "category": "Grenades",
-      "defname": "EccentricChemlightDarklight",
       "price": -10
     },
     {
@@ -13633,18 +13573,6 @@
       "price": -10
     },
     {
-      "abr": "flare",
-      "category": "Grenades",
-      "defname": "Eccentric_Flare",
-      "price": 115
-    },
-    {
-      "abr": "flaregun",
-      "category": "Ranged weapons",
-      "defname": "Eccentric_FlareGun",
-      "price": 147
-    },
-    {
       "abr": "fleder",
       "category": "Animals",
       "defname": "WMH_Fleder",
@@ -13669,18 +13597,6 @@
       "price": -10
     },
     {
-      "abr": "foxear",
-      "category": "Bionic",
-      "defname": "EccentricEarFox",
-      "price": 263
-    },
-    {
-      "abr": "foxtail",
-      "category": "Bionic",
-      "defname": "EccentricTailFox",
-      "price": 221
-    },
-    {
       "abr": "ghoul",
       "category": "Animal",
       "defname": "WMH_Ghoul",
@@ -13703,18 +13619,6 @@
       "category": "Trophies",
       "defname": "WMHT_TrophyGrandGolem",
       "price": -10
-    },
-    {
-      "abr": "greathornedowltuft",
-      "category": "Bionic",
-      "defname": "EccentricHornGreatHornedOwl",
-      "price": 259
-    },
-    {
-      "abr": "greenchemlight",
-      "category": "Grenades",
-      "defname": "EccentricChemlightGreen",
-      "price": 76
     },
     {
       "abr": "heruan",
@@ -13753,18 +13657,6 @@
       "price": 209
     },
     {
-      "abr": "horseear",
-      "category": "Bionic",
-      "defname": "EccentricEarHorse",
-      "price": 263
-    },
-    {
-      "abr": "horsetail",
-      "category": "Bionic",
-      "defname": "EccentricTailHorse",
-      "price": 221
-    },
-    {
       "abr": "hym",
       "category": "Animal",
       "defname": "WMH_Hym",
@@ -13775,12 +13667,6 @@
       "category": "Trophies",
       "defname": "WMHT_TrophyLargeHym",
       "price": -10
-    },
-    {
-      "abr": "illuminationshell",
-      "category": "Mortar shells",
-      "defname": "Eccentric_IlluminationShell",
-      "price": 46
     },
     {
       "abr": "insightfulmemorysculpture",
@@ -13831,18 +13717,6 @@
       "price": 1529
     },
     {
-      "abr": "labradordogear",
-      "category": "Bionic",
-      "defname": "EccentricEarLabrador",
-      "price": 263
-    },
-    {
-      "abr": "labradordogtail",
-      "category": "Bionic",
-      "defname": "EccentricTailLabrador",
-      "price": 221
-    },
-    {
       "abr": "leshy",
       "category": "Animals",
       "defname": "WMH_Leshy",
@@ -13867,18 +13741,6 @@
       "price": 225
     },
     {
-      "abr": "mainecooncattail",
-      "category": "Bionic",
-      "defname": "EccentricTailMaineCoon",
-      "price": 221
-    },
-    {
-      "abr": "mainecoonear",
-      "category": "Bionic",
-      "defname": "EccentricEarMaineCoon",
-      "price": 263
-    },
-    {
       "abr": "memoryrecorder",
       "category": "Heruan",
       "defname": "Heruan_MemoryRecorder",
@@ -13889,18 +13751,6 @@
       "category": "Meat",
       "defname": "Meat_WMH_Chort",
       "price": 3
-    },
-    {
-      "abr": "mouseear",
-      "category": "Bionic",
-      "defname": "EccentricEarMouse",
-      "price": 263
-    },
-    {
-      "abr": "mousetail",
-      "category": "Bionic",
-      "defname": "EccentricTailMouse",
-      "price": 221
     },
     {
       "abr": "nanoassembler",
@@ -13969,18 +13819,6 @@
       "price": 83
     },
     {
-      "abr": "onihorn",
-      "category": "Bionic",
-      "defname": "EccentricHornOni",
-      "price": 259
-    },
-    {
-      "abr": "owltail",
-      "category": "Bionic",
-      "defname": "EccentricTailOwl",
-      "price": 221
-    },
-    {
       "abr": "p12chargepdw",
       "category": "Ranged weapons",
       "defname": "Eccentric_Gun_P12PDW",
@@ -13991,30 +13829,6 @@
       "category": "Security",
       "defname": "Eccentric_Turret_P17SG",
       "price": 1084
-    },
-    {
-      "abr": "rabbitear",
-      "category": "Bionic",
-      "defname": "EccentricEarRabbit",
-      "price": 263
-    },
-    {
-      "abr": "rabbittail",
-      "category": "Bionic",
-      "defname": "EccentricTailRabbit",
-      "price": 221
-    },
-    {
-      "abr": "ramhorn",
-      "category": "Bionic",
-      "defname": "EccentricHornRam",
-      "price": 259
-    },
-    {
-      "abr": "redchemlight",
-      "category": "Grenades",
-      "defname": "EccentricChemlightRed",
-      "price": 76
     },
     {
       "abr": "s8chargepistol",
@@ -14029,30 +13843,6 @@
       "price": 3254
     },
     {
-      "abr": "shepherddogear",
-      "category": "Bionic",
-      "defname": "EccentricEarShepherd",
-      "price": 263
-    },
-    {
-      "abr": "shepherddogtail",
-      "category": "Bionic",
-      "defname": "EccentricTailShepherd",
-      "price": 221
-    },
-    {
-      "abr": "siamesecatear",
-      "category": "Bionic",
-      "defname": "EccentricEarSiamese",
-      "price": 263
-    },
-    {
-      "abr": "siamesecattail",
-      "category": "Bionic",
-      "defname": "EccentricTailSiamese",
-      "price": 221
-    },
-    {
       "abr": "solararmor",
       "category": "Heruan",
       "defname": "Heruan_SolarArmor",
@@ -14063,24 +13853,6 @@
       "category": "Heruan",
       "defname": "Heruan_StellarArmor",
       "price": 2108
-    },
-    {
-      "abr": "terrierdogear",
-      "category": "Bionic",
-      "defname": "EccentricEarTerrier",
-      "price": 263
-    },
-    {
-      "abr": "terrierdogtail",
-      "category": "Bionic",
-      "defname": "EccentricTailTerrier",
-      "price": 221
-    },
-    {
-      "abr": "thrumbohorn",
-      "category": "Bionic",
-      "defname": "EccentricHornThrumbo",
-      "price": 259
     },
     {
       "abr": "triunecirclet",
@@ -14125,12 +13897,6 @@
       "price": 83
     },
     {
-      "abr": "unicornhorn",
-      "category": "Bionic",
-      "defname": "EccentricHornUnicorn",
-      "price": 259
-    },
-    {
       "abr": "utilityhalo",
       "category": "Headwear",
       "defname": "EccentricFrillWorker",
@@ -14155,18 +13921,6 @@
       "price": -10
     },
     {
-      "abr": "wolfear",
-      "category": "Bionic",
-      "defname": "EccentricEarWolf",
-      "price": 263
-    },
-    {
-      "abr": "wolftail",
-      "category": "Bionic",
-      "defname": "EccentricTailWolf",
-      "price": 221
-    },
-    {
       "abr": "wraith",
       "category": "Animal",
       "defname": "WMH_Wraith",
@@ -14189,12 +13943,6 @@
       "category": "Trophies",
       "defname": "WMHT_TrophyGrandWyvern",
       "price": -10
-    },
-    {
-      "abr": "yellowchemlight",
-      "category": "Grenades",
-      "defname": "EccentricChemlightYellow",
-      "price": 76
     },
     {
       "abr": "futuristicgreatpyramid",
@@ -14239,5 +13987,5 @@
       "price": 2958
     }
   ],
-  "total": 2373
+  "total": 2331
 }
