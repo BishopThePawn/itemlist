@@ -1042,7 +1042,7 @@
       "abr": "wood",
       "category": "Raw resources",
       "defname": "WoodLog",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "uranium",
@@ -2548,7 +2548,7 @@
       "abr": "eltexstaff",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_PsyfocusStaff",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "terrorsculpture",
@@ -6052,37 +6052,37 @@
       "abr": "laserpistol",
       "category": "Ranged weapons",
       "defname": "VWEL_Gun_LaserPistol",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "lasersmg",
       "category": "Ranged weapons",
       "defname": "VWEL_Gun_LaserSMG",
-      "price": -10
+      "price": 4000
     },
     {
       "abr": "laserrifle",
       "category": "Ranged weapons",
       "defname": "VWEL_Gun_LaserRifle",
-      "price": -10
+      "price": 5000
     },
     {
       "abr": "lasershotgun",
       "category": "Ranged weapons",
       "defname": "VWEL_Gun_LaserShotgun",
-      "price": -10
+      "price": 5333
     },
     {
       "abr": "lasersniperrifle",
       "category": "Ranged weapons",
       "defname": "VWEL_Gun_LaserSniperRifle",
-      "price": -10
+      "price": 6000
     },
     {
       "abr": "laserminigun",
       "category": "Ranged weapons",
       "defname": "VWEL_Gun_LaserMinigun",
-      "price": -10
+      "price": 7500
     },
     {
       "abr": "teslagun",
@@ -6094,25 +6094,25 @@
       "abr": "salvagedlaserpistol",
       "category": "Ranged weapons",
       "defname": "VWEL_Gun_SalvagedLaserPistol",
-      "price": -10
+      "price": 2500
     },
     {
       "abr": "salvagedlaserrifle",
       "category": "Ranged weapons",
       "defname": "VWEL_Gun_SalvagedLaserRifle",
-      "price": -10
+      "price": 3250
     },
     {
       "abr": "salvagedlasershotgun",
       "category": "Ranged weapons",
       "defname": "VWEL_Gun_SalvagedLaserShotgun",
-      "price": -10
+      "price": 3417
     },
     {
       "abr": "salvagedlasersniperrifle",
       "category": "Ranged weapons",
       "defname": "VWEL_Gun_SalvagedLaserSniperRifle",
-      "price": -10
+      "price": 3667
     },
     {
       "abr": "ketchup",
@@ -10696,7 +10696,7 @@
       "abr": "warcasketlaserblaster",
       "category": "Ranged weapons",
       "defname": "VFEP_WarcasketGun_LaserBlaster",
-      "price": -10
+      "price": 5333
     },
     {
       "abr": "warcasketlaserbolter",
@@ -10720,7 +10720,7 @@
       "abr": "warcasketsalvagedlasereradicator",
       "category": "Ranged weapons",
       "defname": "VFEP_WarcasketGun_SalvagedLaserEradicator",
-      "price": -10
+      "price": 6833
     },
     {
       "abr": "warcasketsalvagedlasereradicator",
@@ -11596,13 +11596,13 @@
       "abr": "eltexdagger",
       "category": "Melee weapons",
       "defname": "VPE_MeleeWeapon_EltexDagger",
-      "price": -10
+      "price": 1225
     },
     {
       "abr": "eltexmace",
       "category": "Melee weapons",
       "defname": "VPE_MeleeWeapon_EltexMace",
-      "price": -10
+      "price": 1333
     },
     {
       "abr": "eltexmask",
@@ -13168,7 +13168,7 @@
       "abr": "heavylaser",
       "category": "Ranged weapons",
       "defname": "XCOM_Gun_LaserCannon",
-      "price": 2642
+      "price": 5283
     },
     {
       "abr": "helixrail-cannon",
@@ -13204,19 +13204,19 @@
       "abr": "laserpistol",
       "category": "Ranged weapons",
       "defname": "XCOM_Gun_LaserPistol",
-      "price": 788
+      "price": 1575
     },
     {
       "abr": "laserrifle",
       "category": "Ranged weapons",
       "defname": "XCOM_Gun_LaserRifle",
-      "price": 1175
+      "price": 2350
     },
     {
       "abr": "lasersniperrifle",
       "category": "Ranged weapons",
       "defname": "XCOM_Gun_LaserSniperRifle",
-      "price": 1779
+      "price": 3558
     },
     {
       "abr": "magautopistol",
@@ -13300,7 +13300,7 @@
       "abr": "scatterlaser",
       "category": "Ranged weapons",
       "defname": "XCOM_Gun_LaserShotgun",
-      "price": 1388
+      "price": 2775
     },
     {
       "abr": "shadowlance",
@@ -14219,7 +14219,25 @@
       "category": "Misc",
       "defname": "AM_GrandGate",
       "price": 1783
+    },
+    {
+      "abr": "sephyr",
+      "category": "Animal",
+      "defname": "ERN_Sephyr",
+      "price": -10
+    },
+    {
+      "abr": "sephyrmeat",
+      "category": "Meat",
+      "defname": "Meat_ERN_Sephyr",
+      "price": 1
+    },
+    {
+      "abr": "e21anti-materialrifle",
+      "category": "Ranged weapons",
+      "defname": "Eccentric_Gun_E21AMR",
+      "price": 2958
     }
   ],
-  "total": 2370
+  "total": 2373
 }

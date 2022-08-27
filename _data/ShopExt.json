@@ -7578,6 +7578,31 @@
       "enabled": true,
       "name": "heruan",
       "price": 4000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+11.0C Minimum comfortable temperature",
+          "+31.0C Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value",
+          "+14.0% Armor - Blunt",
+          "+14.0% Armor - Sharp",
+          "+24.0% Armor - Heat"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Basically what you get when you take what would be an adorable alien and thrust them into a cold, hard and unforgiving world that would be hunted for their fur, the Sephyr are quite similar to humans in that they never asked for this. A reptilian-feline hybrid originating from a desert homeworld shattered in a natural cataclysm, these mono-gendered humanoids are covered in hard plates of minerals and long fur that is a vital part of inter-species communication and moisture accumulation. And yes, it is considered extremely rude to touch their fur and can lead to the horrifying discovery that they are extreme omnivores that would gladly experience a change in diet.\n\nThey have slightly better temperature range than humans, as well as being highly resistant to fire, however they can be quite prone to depression due to their eidetic memories constantly reminding them of what they have lost. Their natural plating makes for decent protection against foreign threats and can be reinforced in times of stress, which used to simply be dealing with harsh weather but can also be used against those foolish enough to think of them as easy prey.\n<i><b><color=#1CFF08FF>Erin's Sephyr</color></b></i>",
+      "defName": "ERN_Sephyr",
+      "enabled": true,
+      "name": "Sephyr",
+      "price": 4000
     }
   ]
 }
