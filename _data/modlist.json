@@ -96,6 +96,12 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki,  Trunken and  Sarg Bjornson",
+    "name": "Vanilla Weapons Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oskar Potocki and  XeoNovaDan",
     "name": "Vanilla Factions Expanded - Medieval",
     "steamId": "2023513450",
@@ -154,6 +160,12 @@
     "name": "Vanilla Books Expanded",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Oskar Potocki and  Sarg Bjornson",
+    "name": "Vanilla Fishing Expanded",
+    "steamId": "1914064942",
+    "version": "1.0.0.0"
   },
   {
     "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
@@ -278,6 +290,12 @@
   {
     "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
     "name": "Vanilla Brewing Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sarg Bjornson,  Chowder and  Trahspanda",
+    "name": "Vanilla Brewing Expanded - Coffees and Teas",
     "steamId": null,
     "version": null
   },
@@ -867,7 +885,7 @@
     "author": "Aelanna",
     "name": "Eccentric Tech - Foxy's Armory 2.0",
     "steamId": "2552628608",
-    "version": "2.4.0.0"
+    "version": "2.4.1.0"
   },
   {
     "author": "Aelanna",
@@ -880,6 +898,132 @@
     "name": "Erin's Sephyr",
     "steamId": "2853356739",
     "version": "1.0.8268.31188"
+  },
+  {
+    "author": "Neceros",
+    "name": "SRTS Expanded",
+    "steamId": "1845423808",
+    "version": "1.4.6"
+  },
+  {
+    "author": "Danadriel",
+    "name": "Sailpunk Airships",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "legodude17 and  Oskar Potocki",
+    "name": "Vanilla Skills Expanded",
+    "steamId": "2854967442",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "epicfloor",
+    "name": "VFE Pirates unofficial add-on: Workercasket",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "TrahsPanda and  Seagullible",
+    "name": "Breakfast Meals - Unofficial Vanilla Cooking Expanded Addon",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AveryTheKitty,  Erin and Ravenholme",
+    "name": "Devilstrand Animals",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Erin",
+    "name": "Erin's Hairstyles - Redux",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sarg Bjornson and  Oskar Potocki",
+    "name": "Vanilla Cooking Expanded - Sushi",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Erin and  Helixien",
+    "name": "Erin's Japanese Cuisine",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Erin and AveryTheKitty",
+    "name": "Erin's Japanese Furniture",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and  Trunken",
+    "name": "Vanilla Apparel Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki,  xrushha and  SmashPhil",
+    "name": "Vanilla Apparel Expanded — Accessories",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "legodudee17 and  Oskar Potocki",
+    "name": "Vanilla Backgrounds Expanded",
+    "steamId": "2775017012",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
+    "name": "Vanilla Cooking Expanded - Stews",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki,  Kikohi and  Sarg Bjornson",
+    "name": "Vanilla Factions Expanded - Insectoids",
+    "steamId": "2149755445",
+    "version": "1.2.3.1"
+  },
+  {
+    "author": "Oskar Potocki and  Taranchuk",
+    "name": "Vanilla Persona Weapons Expanded",
+    "steamId": "2826922787",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Weapons Expanded - Grenades",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and  SmashPhil",
+    "name": "Vanilla Weapons Expanded - Makeshift",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Weapons Expanded - Quickdraw",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Weapons Expanded - Tribal",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki,  AveryTheKitty and  Taranchuk",
+    "name": "Vanilla Weapons Expanded - Coilguns",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Krkr",
