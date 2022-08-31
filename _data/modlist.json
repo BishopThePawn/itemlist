@@ -534,21 +534,9 @@
     "version": null
   },
   {
-    "author": "MrRavenFace",
-    "name": "Player Faction Icon : Tophat",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "SheiFoxy",
     "name": "SF Comfy Meditation",
     "steamId": "2593876906",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki,  Sarg Bjornson and  Aquiles",
-    "name": "Vanilla Animals Expanded — Caves",
-    "steamId": "2576512001",
     "version": "1.0.0.0"
   },
   {
@@ -888,12 +876,6 @@
     "version": "2.4.1.0"
   },
   {
-    "author": "Aelanna",
-    "name": "Heruan Race",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Erin",
     "name": "Erin's Sephyr",
     "steamId": "2853356739",
@@ -980,6 +962,12 @@
   {
     "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
     "name": "Vanilla Cooking Expanded - Stews",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Roolo",
+    "name": "Search and Destroy",
     "steamId": null,
     "version": null
   },

@@ -7589,29 +7589,6 @@
     {
       "data": {
         "stats": [
-          "+50.00 Mass",
-          "+70% Flammability",
-          "+$1750 Market value",
-          "+5.40 Move speed",
-          "+10.0C Minimum comfortable temperature",
-          "+36.0C Maximum comfortable temperature",
-          "+75 Leather amount",
-          "+3 Honor value",
-          "+110% Global learning factor"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "The heruan are a race of genetically modified xenohumans hailing from a remote glitterworld established during the First Wave of Exploration. Direct descendents of the people of Old Earth, the heruan people sent forth the Triune Expedition Fleets in the wake of the fall of Old Earth and the collapse of the Origin Systems, their mission to catalogue and preserve the breadth of humanity in order to keep their memories alive for posterity.\n\nHeruan society is centered around the Triune castes of Sun, Moon, and Star. These are not hereditary castes but ones adopted in adulthood; heruan adolescents are expected to aspire to and train themselves for future inclusion into a caste.\n\nHeruan are sleek and nimble with powerful legs. They are swift on foot and their powerful talons can be dangerous in a fight, but their relative frailty makes them poor combatants overall. Heruan are naturally inquisitive and eager to learn about unfamiliar people and cultures, preferring intellectual and creative pursuits over the prosecution of war. However, they understand that sometimes the only way to preserve the memory of others is to defend oneself against those who would destroy them.\n<i><b><color=#1CFF08FF>Heruan Race</color></b></i>",
-      "defName": "Aelanna_Heruan",
-      "enabled": true,
-      "name": "heruan",
-      "price": 4000
-    },
-    {
-      "data": {
-        "stats": [
           "+60.00 Mass",
           "+70% Flammability",
           "+$1750 Market value",

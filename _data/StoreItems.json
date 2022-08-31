@@ -12961,72 +12961,6 @@
 		"defname": "VBE_WhiskeyMash"
 	},
 	{
-		"abr": "ancientgiantspider",
-		"price": -10,
-		"category": "Animals",
-		"defname": "VAECaves_AncientGiantSpider"
-	},
-	{
-		"abr": "blindsalamander",
-		"price": -10,
-		"category": "Animals",
-		"defname": "VAECaves_BlindSalamander"
-	},
-	{
-		"abr": "blindsalamanderegg(fert.)",
-		"price": -10,
-		"category": "Eggs (fert.)",
-		"defname": "VAECaves_EggSalamanderFertilized"
-	},
-	{
-		"abr": "cavebear",
-		"price": -10,
-		"category": "Animals",
-		"defname": "VAECaves_CaveBear"
-	},
-	{
-		"abr": "cavecrawler",
-		"price": -10,
-		"category": "Animals",
-		"defname": "VAECaves_CaveCrawler"
-	},
-	{
-		"abr": "cavecrawleregg(fert.)",
-		"price": -10,
-		"category": "Eggs (fert.)",
-		"defname": "VAECaves_CaveCrawlerEggFertilized"
-	},
-	{
-		"abr": "giantspider",
-		"price": -10,
-		"category": "Animals",
-		"defname": "VAECaves_GiantSpider"
-	},
-	{
-		"abr": "giantspiderhatchling",
-		"price": -10,
-		"category": "Animals",
-		"defname": "VAECaves_GiantSpiderHatchling"
-	},
-	{
-		"abr": "insectoidhulk",
-		"price": -10,
-		"category": "Animals",
-		"defname": "VAECaves_InsectoidHulk"
-	},
-	{
-		"abr": "wyrm",
-		"price": -10,
-		"category": "Animals",
-		"defname": "VAECaves_Wyrm"
-	},
-	{
-		"abr": "wyrmmeat",
-		"price": -10,
-		"category": "Meat",
-		"defname": "Meat_VAECaves_Wyrm"
-	},
-	{
 		"abr": "deathsuperacidifier",
 		"price": 1500,
 		"category": "Bionic",
@@ -13501,18 +13435,6 @@
 		"defname": "WMHT_TrophyGrandCyclops"
 	},
 	{
-		"abr": "diligentmemorysculpture",
-		"price": 1075,
-		"category": "Art",
-		"defname": "Heruan_SculptureDiligent"
-	},
-	{
-		"abr": "diligentmemoryshard",
-		"price": 83,
-		"category": "Memory shards",
-		"defname": "Heruan_ShardDiligent"
-	},
-	{
 		"abr": "djinn",
 		"price": -10,
 		"category": "Animal",
@@ -13621,36 +13543,6 @@
 		"defname": "WMHT_TrophyGrandGolem"
 	},
 	{
-		"abr": "heruan",
-		"price": -10,
-		"category": "Animal",
-		"defname": "Aelanna_Heruan"
-	},
-	{
-		"abr": "heruandagger",
-		"price": 483,
-		"category": "Melee weapons",
-		"defname": "Heruan_Dagger"
-	},
-	{
-		"abr": "heruankhopesh",
-		"price": 1192,
-		"category": "Melee weapons",
-		"defname": "Heruan_Khopesh"
-	},
-	{
-		"abr": "heruanmeat",
-		"price": -10,
-		"category": "Meat",
-		"defname": "Meat_Aelanna_Heruan"
-	},
-	{
-		"abr": "heruansolarlance",
-		"price": 2508,
-		"category": "Melee weapons",
-		"defname": "Heruan_SolarLance"
-	},
-	{
 		"abr": "high-densityhex-cell",
 		"price": 209,
 		"category": "Manufactured",
@@ -13667,18 +13559,6 @@
 		"price": -10,
 		"category": "Trophies",
 		"defname": "WMHT_TrophyLargeHym"
-	},
-	{
-		"abr": "insightfulmemorysculpture",
-		"price": 1075,
-		"category": "Art",
-		"defname": "Heruan_SculptureInsightful"
-	},
-	{
-		"abr": "insightfulmemoryshard",
-		"price": 83,
-		"category": "Memory shards",
-		"defname": "Heruan_ShardInsightful"
 	},
 	{
 		"abr": "kikimorequeen",
@@ -13729,22 +13609,10 @@
 		"defname": "WMHT_TrophyLargeLeshy"
 	},
 	{
-		"abr": "lunarrobe",
-		"price": 2108,
-		"category": "Heruan",
-		"defname": "Heruan_LunarArmor"
-	},
-	{
 		"abr": "m3rosethorn",
 		"price": 225,
 		"category": "Melee weapons",
 		"defname": "Eccentric_Rosethorn"
-	},
-	{
-		"abr": "memoryrecorder",
-		"price": 492,
-		"category": "Heruan",
-		"defname": "Heruan_MemoryRecorder"
 	},
 	{
 		"abr": "monstermeat",
@@ -13807,18 +13675,6 @@
 		"defname": "WMHT_TrophyLargeNekker"
 	},
 	{
-		"abr": "nurturingmemorysculpture",
-		"price": 1075,
-		"category": "Art",
-		"defname": "Heruan_SculptureNurturing"
-	},
-	{
-		"abr": "nurturingmemoryshard",
-		"price": 83,
-		"category": "Memory shards",
-		"defname": "Heruan_ShardNurturing"
-	},
-	{
 		"abr": "p12chargepdw",
 		"price": 579,
 		"category": "Ranged weapons",
@@ -13841,60 +13697,6 @@
 		"price": 3254,
 		"category": "Eccentric",
 		"defname": "EccentricUndersuitSeraph"
-	},
-	{
-		"abr": "solararmor",
-		"price": 3000,
-		"category": "Heruan",
-		"defname": "Heruan_SolarArmor"
-	},
-	{
-		"abr": "stellargown",
-		"price": 2108,
-		"category": "Heruan",
-		"defname": "Heruan_StellarArmor"
-	},
-	{
-		"abr": "triunecirclet",
-		"price": 642,
-		"category": "Heruan",
-		"defname": "Heruan_Circlet"
-	},
-	{
-		"abr": "triunehelmet",
-		"price": 775,
-		"category": "Heruan",
-		"defname": "Heruan_Helmet"
-	},
-	{
-		"abr": "triunepistol",
-		"price": 1225,
-		"category": "Ranged weapons",
-		"defname": "Heruan_TriunePistol"
-	},
-	{
-		"abr": "triunerifle",
-		"price": 1683,
-		"category": "Ranged weapons",
-		"defname": "Heruan_TriuneRifle"
-	},
-	{
-		"abr": "triuneundersuit",
-		"price": 642,
-		"category": "Heruan",
-		"defname": "Heruan_Undersuit"
-	},
-	{
-		"abr": "tumultuousmemorysculpture",
-		"price": 1075,
-		"category": "Art",
-		"defname": "Heruan_SculptureTumultuous"
-	},
-	{
-		"abr": "tumultuousmemoryshard",
-		"price": 83,
-		"category": "Memory shards",
-		"defname": "Heruan_ShardTumultuous"
 	},
 	{
 		"abr": "utilityhalo",
@@ -15677,205 +15479,7 @@
 		"price": 1083,
 		"category": "Animals",
 		"defname": "VFEI_VatGrownGigalocust"
-	},
-	{
-		"abr": "vat-growngigascorpion",
-		"price": 833,
-		"category": "Animals",
-		"defname": "VFEI_VatGrownGigascorpion"
-	},
-	{
-		"abr": "vat-growngigawig",
-		"price": 750,
-		"category": "Animals",
-		"defname": "VFEI_VatGrownGigawig"
-	},
-	{
-		"abr": "vat-grownmegacricket",
-		"price": 292,
-		"category": "Animals",
-		"defname": "VFEI_VatGrownMegacricket"
-	},
-	{
-		"abr": "vat-grownmegapede",
-		"price": 1250,
-		"category": "Animals",
-		"defname": "VFEI_VatGrownMegapede"
-	},
-	{
-		"abr": "vat-grownmegascarab",
-		"price": 167,
-		"category": "Animals",
-		"defname": "VFEI_VatGrownMegascarab"
-	},
-	{
-		"abr": "vat-grownmegaspider",
-		"price": 833,
-		"category": "Animals",
-		"defname": "VFEI_VatgrownMegaspider"
-	},
-	{
-		"abr": "vat-grownmilkbeetle",
-		"price": 583,
-		"category": "Animals",
-		"defname": "VFEI_VatGrownMilkbeetle"
-	},
-	{
-		"abr": "vat-grownmonstrosity",
-		"price": 1250,
-		"category": "Animals",
-		"defname": "VFEI_VatGrownMonstrosity"
-	},
-	{
-		"abr": "vat-grownprincess",
-		"price": 1500,
-		"category": "Animals",
-		"defname": "VFEI_VatGrownPrincess"
-	},
-	{
-		"abr": "vat-grownroyallarva",
-		"price": 83,
-		"category": "Animals",
-		"defname": "VFEI_VatgrownRoyalLarva"
-	},
-	{
-		"abr": "vat-grownroyalmaggot",
-		"price": 333,
-		"category": "Animals",
-		"defname": "VFEI_VatGrownRoyalMaggot"
-	},
-	{
-		"abr": "vat-grownspelopede",
-		"price": 333,
-		"category": "Animals",
-		"defname": "VFEI_VatGrownSpelopede"
-	},
-	{
-		"abr": "vat-grownspiderweaver",
-		"price": 333,
-		"category": "Animals",
-		"defname": "VFEI_VatGrownSpiderweaver"
-	},
-	{
-		"abr": "vat-growntitanbeetle",
-		"price": 917,
-		"category": "Animals",
-		"defname": "VFEI_VatGrownTitanbeetle"
-	},
-	{
-		"abr": "vat-grownwargling",
-		"price": 833,
-		"category": "Animals",
-		"defname": "VFEI_VatGrownWargling"
-	},
-	{
-		"abr": "vat-grownworkerant",
-		"price": 333,
-		"category": "Animals",
-		"defname": "VFEI_VatGrownWorkerAnt"
-	},
-	{
-		"abr": "venomgland",
-		"price": 2000,
-		"category": "Insect",
-		"defname": "VFEI_VenomGland"
-	},
-	{
-		"abr": "ventricularsleeve",
-		"price": 2000,
-		"category": "Insect",
-		"defname": "VFEI_VentricularSleeve"
-	},
-	{
-		"abr": "waffle",
-		"price": 50,
-		"category": "Meals",
-		"defname": "TRAHS_MealWaffles"
-	},
-	{
-		"abr": "warcasketfoldinggun",
-		"price": 2750,
-		"category": "Ranged weapons",
-		"defname": "VFEP_WarcasketGun_FoldingGun"
-	},
-	{
-		"abr": "warcasketfoldinggun",
-		"price": 2750,
-		"category": "Misc",
-		"defname": "VFEP_Box_FoldingGun"
-	},
-	{
-		"abr": "warcasketplasmasword",
-		"price": 6000,
-		"category": "Melee weapons",
-		"defname": "VFEP_WarcasketMeleeWeapon_PlasmaSword"
-	},
-	{
-		"abr": "warcasketrailgun",
-		"price": 5333,
-		"category": "Ranged weapons",
-		"defname": "VFEP_WarcasketGun_Railgun"
-	},
-	{
-		"abr": "warcasketrailgun",
-		"price": 5333,
-		"category": "Misc",
-		"defname": "VFEP_Box_Railgun"
-	},
-	{
-		"abr": "warriorgeneticmaterial",
-		"price": 250,
-		"category": "Manufactured",
-		"defname": "VFEI_WarriorGenome"
-	},
-	{
-		"abr": "wasabi",
-		"price": 2,
-		"category": "Vegetarian",
-		"defname": "VCE_RawWasabi"
-	},
-	{
-		"abr": "wasabipaste",
-		"price": 5,
-		"category": "Condiments",
-		"defname": "VCE_WasabiPaste"
-	},
-	{
-		"abr": "whip",
-		"price": 203,
-		"category": "Ranged weapons",
-		"defname": "VWE_Tool_Whip"
-	},
-	{
-		"abr": "wrench",
-		"price": 277,
-		"category": "Melee weapons",
-		"defname": "VWE_MeleeWeapon_Wrench"
-	},
-	{
-		"abr": "yakisoba",
-		"price": 33,
-		"category": "Meals",
-		"defname": "EJC_Yakisoba"
-	},
-	{
-		"abr": "yuenyeung",
-		"price": 13,
-		"category": "Drugs",
-		"defname": "VBE_Yuenyeung"
-	},
-	{
-		"abr": "zabuton",
-		"price": 120,
-		"category": "Furniture",
-		"defname": "Erin_Zabuton"
-	},
-	{
-		"abr": "zarusoba",
-		"price": 67,
-		"category": "Meals",
-		"defname": "EJC_Zarusoba"
 	}
 	],
-	"total": 2646
+	"total": 2613
 }
