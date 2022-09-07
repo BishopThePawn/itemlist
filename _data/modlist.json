@@ -585,7 +585,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.2.1.0"
+    "version": "6.2.1.2"
   },
   {
     "author": "saschahi",
@@ -873,7 +873,7 @@
     "author": "Aelanna",
     "name": "Eccentric Tech - Foxy's Armory 2.0",
     "steamId": "2552628608",
-    "version": "2.4.1.0"
+    "version": "2.4.2.0"
   },
   {
     "author": "Erin",
@@ -1004,6 +1004,12 @@
   {
     "author": "Oskar Potocki",
     "name": "Vanilla Weapons Expanded - Tribal",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki,  Sarg Bjornson and  Erin",
+    "name": "Vanilla Animals Expanded — Royal Animals",
     "steamId": null,
     "version": null
   },
