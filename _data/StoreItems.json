@@ -1220,7 +1220,7 @@
 	},
 	{
 		"abr": "thrumbofur",
-		"price": -10,
+		"price": 23,
 		"category": "Leathers",
 		"defname": "Leather_Thrumbo"
 	},
@@ -2738,7 +2738,7 @@
 	},
 	{
 		"abr": "tailcap",
-		"price": -10,
+		"price": 75,
 		"category": "Headgear",
 		"defname": "Apparel_Tailcap"
 	},
