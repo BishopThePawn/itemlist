@@ -5918,7 +5918,7 @@
 	},
 	{
 		"abr": "psytrainer(darkness)",
-		"price": -10,
+		"price": 1333,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_VPE_Darkness"
 	},
@@ -6434,7 +6434,7 @@
 	},
 	{
 		"abr": "psytrainer(speedboost)",
-		"price": -10,
+		"price": 1333,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_VPE_SpeedBoost"
 	},
@@ -6644,7 +6644,7 @@
 	},
 	{
 		"abr": "psytrainer(wordofhealing)",
-		"price": -10,
+		"price": 1333,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_VPE_WordofHealing"
 	},
@@ -6662,7 +6662,7 @@
 	},
 	{
 		"abr": "psytrainer(wordofjoy)",
-		"price": -10,
+		"price": 1333,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_VPE_WordofJoy"
 	},
@@ -8465,7 +8465,7 @@
 		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "BMT_YutyrannusEggFertilized"
-	}
+	},
 	],
-	"total": 1411
+	"total": 1413
 }
