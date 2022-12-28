@@ -664,7 +664,7 @@
       "abr": "psychicanimalpulser",
       "category": "Artifacts",
       "defname": "PsychicAnimalPulser",
-      "price": 1167
+      "price": -10
     },
     {
       "abr": "psychicsoothepulser",
@@ -1138,13 +1138,13 @@
       "abr": "camelhide",
       "category": "Leathers",
       "defname": "Leather_Camel",
-      "price": -10
+      "price": 4
     },
     {
       "abr": "bluefur",
       "category": "Leathers",
       "defname": "Leather_Bluefur",
-      "price": -10
+      "price": 4
     },
     {
       "abr": "bearskin",
@@ -1162,7 +1162,7 @@
       "abr": "humanleather",
       "category": "Leathers",
       "defname": "Leather_Human",
-      "price": -10
+      "price": 7
     },
     {
       "abr": "pigskin",
@@ -1222,7 +1222,7 @@
       "abr": "thrumbofur",
       "category": "Leathers",
       "defname": "Leather_Thrumbo",
-      "price": -10
+      "price": 23
     },
     {
       "abr": "patchleather",
@@ -5009,7 +5009,25 @@
       "category": "Psytrainers",
       "defname": "Psytrainer_WordOfTrust",
       "price": 417
+    },
+    {
+      "abr": "nukacola(twist)",
+      "category": "Drugs",
+      "defname": "Fallout_Nuka_Cola_Twist",
+      "price": 20
+    },
+    {
+      "abr": "nukacola(vaccinated)",
+      "category": "Drugs",
+      "defname": "Fallout_Nuka_Cola_Vaccinated",
+      "price": 20
+    },
+    {
+      "abr": "nukashine",
+      "category": "Drugs",
+      "defname": "Fallout_Nuka_Cola_Shine",
+      "price": 20
     }
   ],
-  "total": 835
+  "total": 838
 }
