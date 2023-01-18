@@ -6,54 +6,6 @@
     "version": "1.5.0.0"
   },
   {
-    "author": "Andreas Pardeike",
-    "name": "Camera+",
-    "steamId": "867467808",
-    "version": "2.5.2.0"
-  },
-  {
-    "author": "Dubwise",
-    "name": "Dubs Mint Minimap",
-    "steamId": "1662119905",
-    "version": "1.2.7365"
-  },
-  {
-    "author": "Peppsen",
-    "name": "P-Music",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Josh Mate",
-    "name": "Balanced Soil",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
-    "name": "Vanilla Expanded Framework",
-    "steamId": "2023507013",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
-    "name": "Vanilla Ideology Expanded - Memes and Structures",
-    "steamId": "2636329500",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Sarg Bjornson, Helixien, Cassie, Luizi and Allie",
-    "name": "Alpha Memes",
-    "steamId": "2661356814",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Allie and Sarg",
-    "name": "Alpha Genes",
-    "steamId": "2891845502",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "UnlimitedHugs",
     "name": "HugsLib",
     "steamId": "818773962",
@@ -66,22 +18,16 @@
     "version": null
   },
   {
-    "author": "Kippetje2000",
-    "name": "Adjustable Ability Cooldowns",
-    "steamId": "2566715739",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "DerekBickley",
-    "name": "[LTO] Colony Groups",
-    "steamId": "2345493945",
-    "version": "1.0.06"
+    "author": "Andreas Pardeike",
+    "name": "Camera+",
+    "steamId": "867467808",
+    "version": "2.5.2.0"
   },
   {
     "author": "void",
     "name": "Character Editor",
     "steamId": "1874644848",
-    "version": "1.4.1206.0"
+    "version": "1.4.1240.0"
   },
   {
     "author": "Dubwise",
@@ -90,10 +36,10 @@
     "version": "1.0.0"
   },
   {
-    "author": "Fluffy",
-    "name": "Music Manager",
-    "steamId": "2229205672",
-    "version": "1.2.196"
+    "author": "Dubwise",
+    "name": "Dubs Mint Minimap",
+    "steamId": "1662119905",
+    "version": "1.2.7365"
   },
   {
     "author": "avilmask",
@@ -108,16 +54,16 @@
     "version": "1.1.0.0"
   },
   {
-    "author": "Darth_Sergeant",
-    "name": "Nurse Job",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Mehni",
     "name": "Pick Up And Haul",
     "steamId": "1279012058",
     "version": "1.0.0"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Music Manager",
+    "steamId": "2229205672",
+    "version": "1.2.196"
   },
   {
     "author": "Jaxe",
@@ -126,22 +72,94 @@
     "version": null
   },
   {
-    "author": "José Ángel Soler Ortiz",
-    "name": "Trading Options",
-    "steamId": "2876541977",
-    "version": "0.1.4.0"
-  },
-  {
     "author": "Oskar Potocki, Kikohi and Helixien",
     "name": "Vanilla Events Expanded",
     "steamId": "1938420742",
     "version": "1.1.0"
   },
   {
+    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Fuu Chan",
-    "name": "[Fuu] Punch Attack",
+    "name": "[Fuu] Punch Button",
     "steamId": "2651392585",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Kippetje2000",
+    "name": "Adjustable Ability Cooldowns",
+    "steamId": "2566715739",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "DerekBickley",
+    "name": "[LTO] Colony Groups",
+    "steamId": "2345493945",
+    "version": "1.0.06"
+  },
+  {
+    "author": "Oskar Potocki, ISOREX, xrushha, legodude17 and Chowder",
+    "name": "Vanilla Factions Expanded - Classical",
+    "steamId": "2787850474",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Josh Mate",
+    "name": "Balanced Soil",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Ideology Expanded - Memes and Structures",
+    "steamId": "2636329500",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg Bjornson, Helixien, Cassie, Luizi and Allie",
+    "name": "Alpha Memes",
+    "steamId": "2661356814",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Darth_Sergeant",
+    "name": "Nurse Job",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "José Ángel Soler Ortiz",
+    "name": "Trading Options",
+    "steamId": "2876541977",
+    "version": "0.2.0.0"
+  },
+  {
+    "author": "Alan Dariva and Usagirei",
+    "name": "More Planning [1.4]",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Allie and Sarg",
+    "name": "Alpha Genes",
+    "steamId": "2891845502",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "merthsoft",
+    "name": "Designator Shapes",
+    "steamId": "1235181370",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Vampiresbane",
+    "name": "Rails and Roads of the Rim",
+    "steamId": "2896163437",
+    "version": "1.4.2"
   },
   {
     "author": "Oskar Potocki, Sarg Bjornson and Chowder",
@@ -154,36 +172,6 @@
     "name": "Fallout - Nuka Cola Collection",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Alan Dariva and Usagirei",
-    "name": "More Planning [1.4]",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Vampiresbane",
-    "name": "Rails and Roads of the Rim",
-    "steamId": "2896163437",
-    "version": "1.4.2"
-  },
-  {
-    "author": "Oskar Potocki, ISOREX, xrushha, legodude17 and Chowder",
-    "name": "Vanilla Factions Expanded - Classical",
-    "steamId": "2787850474",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "merthsoft",
-    "name": "Designator Shapes",
-    "steamId": "1235181370",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "lbmaian",
-    "name": "Begone, Message!",
-    "steamId": "1951637504",
-    "version": "1.7"
   },
   {
     "author": "hodlhodl",
@@ -201,6 +189,66 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.3.0.0.biotech.B4"
+    "version": "6.3.0.0.biotech.b6"
+  },
+  {
+    "author": "JME, Caaz, Odeum, Pphhyy the great and Zylle",
+    "name": "Music Expanded Framework",
+    "steamId": "2891663812",
+    "version": "1.0.1.0"
+  },
+  {
+    "author": "JME, Caaz, Odeum, Pphhyy the great and Zylle",
+    "name": "Music Expanded Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Peppsen",
+    "name": "P-Music",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Neronix17",
+    "name": "Tabula Rasa",
+    "steamId": "1660622094",
+    "version": "1.0.8415.12416"
+  },
+  {
+    "author": "Neronix17",
+    "name": "Outer Rim - Core",
+    "steamId": "2919227155",
+    "version": "1.0.8417.40464"
+  },
+  {
+    "author": "Neronix17",
+    "name": "Outer Rim - Chiss Ascendancy",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Neronix17",
+    "name": "Outer Rim - Furniture and Decor",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Neronix17",
+    "name": "Outer Rim - Galactic Empire",
+    "steamId": "2919248699",
+    "version": "1.0.8416.41904"
+  },
+  {
+    "author": "Neronix17",
+    "name": "Outer Rim - Rebel Alliance",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "lbmaian",
+    "name": "Begone, Message!",
+    "steamId": "1951637504",
+    "version": "1.7"
   }
 ]
