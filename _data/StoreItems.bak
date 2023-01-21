@@ -5728,169 +5728,169 @@
       "abr": "puleunalloy",
       "category": "Wisteria Corp.",
       "defname": "S_WC_PULEUN_ALLOY",
-      "price": 11
+      "price": 42
     },
     {
       "abr": "puleunbio-fiber",
       "category": "Wisteria Corp.",
       "defname": "S_WC_PULEUN_BIO_FIBER",
-      "price": 5
+      "price": 17
     },
     {
       "abr": "puleunchargecore",
       "category": "Wisteria Corp.",
       "defname": "S_WC_CHARGE_CORE",
-      "price": 209
+      "price": 833
     },
     {
       "abr": "puleuncrystal",
       "category": "Wisteria Corp.",
       "defname": "S_WC_PULEUN_CRYSTAL",
-      "price": 240
+      "price": 958
     },
     {
       "abr": "puleunfabric",
       "category": "Wisteria Corp.",
       "defname": "S_WC_PULEUN_FABRIC",
-      "price": 27
+      "price": 108
     },
     {
       "abr": "wcchargeslinger",
       "category": "Wisteria Corp. headgear",
       "defname": "S_WC_H_CHARGE_SLINGER",
-      "price": 519
+      "price": 2075
     },
     {
       "abr": "wcconventionalmask",
       "category": "Wisteria Corp. headgear",
       "defname": "S_WC_H_CON_MASK",
-      "price": 477
+      "price": 1908
     },
     {
       "abr": "wcexecutivesuit",
       "category": "Wisteria Corp. armor",
       "defname": "S_WC_A_EXECUTIVE",
-      "price": 1634
+      "price": 6533
     },
     {
       "abr": "wcinterfacevisor",
       "category": "Wisteria Corp. headgear",
       "defname": "S_WC_H_INTER_VISOR",
-      "price": 269
+      "price": 1075
     },
     {
       "abr": "wcradmask",
       "category": "Wisteria Corp. headgear",
       "defname": "S_WC_H_RAD_MASK",
-      "price": 373
+      "price": 1492
     },
     {
       "abr": "wctacticalcap",
       "category": "Wisteria Corp. headgear",
       "defname": "S_WC_H_TAC_CAP",
-      "price": 415
+      "price": 1658
     },
     {
       "abr": "wctype-acasuals",
       "category": "Wisteria Corp. armor",
       "defname": "S_WC_A_CASUALS_A",
-      "price": 1363
+      "price": 5450
     },
     {
       "abr": "wc-aseeker",
       "category": "Wisteria Corp. armor",
       "defname": "S_WC_A_SEEKER_ARMOR",
-      "price": 1417
+      "price": 5667
     },
     {
       "abr": "wc-a/01seeker",
       "category": "Wisteria Corp. headgear",
       "defname": "S_WC_H_SEEKER_HOOD",
-      "price": 796
+      "price": 3183
     },
     {
       "abr": "wc-a/01-bseeker",
       "category": "Wisteria Corp. headgear",
       "defname": "S_WC_H_SEEKER_TYPE_B_HOOD",
-      "price": 1350
+      "price": 5400
     },
     {
       "abr": "wc-aas/x12exile",
       "category": "Ranged weapons",
       "defname": "S_WC_W_EXILE",
-      "price": 380
+      "price": 1517
     },
     {
       "abr": "wc-ab/lhtrident",
       "category": "Ranged weapons",
       "defname": "S_WC_W_TRIDENT",
-      "price": 2375
+      "price": 9500
     },
     {
       "abr": "wc-amr/xnspades",
       "category": "Ranged weapons",
       "defname": "S_WC_W_SPADES",
-      "price": 4117
+      "price": 16467
     },
     {
       "abr": "wc-ar/x15gladiator",
       "category": "Ranged weapons",
       "defname": "S_WC_W_GLADIATOR",
-      "price": 367
+      "price": 1467
     },
     {
       "abr": "wc-ar01lockreed",
       "category": "Ranged weapons",
       "defname": "S_WC_W_LOCKREED",
-      "price": 355
+      "price": 1417
     },
     {
       "abr": "wc-at/bm-06javelin",
       "category": "Ranged weapons",
       "defname": "S_WC_W_JAVELIN",
-      "price": 2875
+      "price": 11500
     },
     {
       "abr": "wc-b2v-rass",
       "category": "Ranged weapons",
       "defname": "S_WC_W_VRASS",
-      "price": 334
+      "price": 1333
     },
     {
       "abr": "wc-cbsova",
       "category": "Ranged weapons",
       "defname": "S_WC_W_SOVA",
-      "price": 305
+      "price": 1217
     },
     {
       "abr": "wc-cc/cb03headhunter",
       "category": "Ranged weapons",
       "defname": "S_WC_W_HEADHUNTER",
-      "price": 771
+      "price": 3083
     },
     {
       "abr": "wc-cm/m1vill",
       "category": "Wisteria Corp. melee",
       "defname": "S_WC_M_VILL",
-      "price": 892
+      "price": 3567
     },
     {
       "abr": "wc-cwzei-lash",
       "category": "Ranged weapons",
       "defname": "S_WC_W_ZEILASH",
-      "price": 230
+      "price": 917
     },
     {
       "abr": "wc-g/armikoyan",
       "category": "Ranged weapons",
       "defname": "S_WC_W_MIKOYAN",
-      "price": 3150
+      "price": 12600
     },
     {
       "abr": "wc-g/b01gunblade",
       "category": "Ranged weapons",
       "defname": "S_WC_W_GUNBLADE",
-      "price": 3605
+      "price": 14417
     },
     {
       "abr": "nutrientpastedripper",
@@ -5908,181 +5908,181 @@
       "abr": "wc-g/svliarisg",
       "category": "Ranged weapons",
       "defname": "S_WC_W_LIARIS_G",
-      "price": 2000
+      "price": 8000
     },
     {
       "abr": "wc-gh/z1fission",
       "category": "Wisteria Corp. melee",
       "defname": "S_WC_M_FISSION",
-      "price": 3009
+      "price": 12033
     },
     {
       "abr": "wc-gl/m1quake",
       "category": "Ranged weapons",
       "defname": "S_WC_W_QUAKE",
-      "price": 1584
+      "price": 6333
     },
     {
       "abr": "wc-gr/x10azursight",
       "category": "Ranged weapons",
       "defname": "S_WC_W_AZURSIGHT",
-      "price": 534
+      "price": 2133
     },
     {
       "abr": "wc-h/01recon",
       "category": "Wisteria Corp. headgear",
       "defname": "S_WC_H_RECON_HOOD",
-      "price": 1369
+      "price": 5475
     },
     {
       "abr": "wc-h/cb02huntress",
       "category": "Ranged weapons",
       "defname": "S_WC_W_HUNTRESS",
-      "price": 667
+      "price": 2667
     },
     {
       "abr": "wc-hg02crusader",
       "category": "Wisteria Corp. melee",
       "defname": "S_WC_M_CRUSADER",
-      "price": 2198
+      "price": 8792
     },
     {
       "abr": "wc-hlm02dragoon",
       "category": "Wisteria Corp. armor",
       "defname": "S_WC_A_DRAGOON",
-      "price": 7815
+      "price": 31258
     },
     {
       "abr": "wc-hmvestal",
       "category": "Wisteria Corp. melee",
       "defname": "S_WC_M_VESTAL",
-      "price": 1463
+      "price": 5850
     },
     {
       "abr": "wc-hm/02recon",
       "category": "Wisteria Corp. armor",
       "defname": "S_WC_A_RECON_ARMOR",
-      "price": 3496
+      "price": 13983
     },
     {
       "abr": "wc-hs/hdragoonh",
       "category": "Wisteria Corp. headgear",
       "defname": "S_WC_H_DRAGOON",
-      "price": 5813
+      "price": 23250
     },
     {
       "abr": "wc-hs02leno",
       "category": "Wisteria Corp. melee",
       "defname": "S_WC_M_LENO",
-      "price": 2040
+      "price": 8158
     },
     {
       "abr": "wc-lagriz",
       "category": "Wisteria Corp. armor",
       "defname": "S_WC_A_GRIZ",
-      "price": 2605
+      "price": 10417
     },
     {
       "abr": "wc-lsjeager",
       "category": "Wisteria Corp. melee",
       "defname": "S_WC_M_JEAGER",
-      "price": 1465
+      "price": 5858
     },
     {
       "abr": "wc-ls01grizh",
       "category": "Wisteria Corp. headgear",
       "defname": "S_WC_H_GRIZ",
-      "price": 2255
+      "price": 9017
     },
     {
       "abr": "wc-m6zarland",
       "category": "Ranged weapons",
       "defname": "S_WC_W_ZARLAND",
-      "price": 409
+      "price": 1633
     },
     {
       "abr": "wc-mb1va-gal",
       "category": "Ranged weapons",
       "defname": "S_WC_W_VAGAL",
-      "price": 334
+      "price": 1333
     },
     {
       "abr": "wc-mg/c16sparda",
       "category": "Ranged weapons",
       "defname": "S_WC_W_SPARDA",
-      "price": 2000
+      "price": 8000
     },
     {
       "abr": "wc-ms/hwyvern",
       "category": "Wisteria Corp. armor",
       "defname": "S_WC_A_WYVERN",
-      "price": 5584
+      "price": 22333
     },
     {
       "abr": "wc-ms/h01wyvern",
       "category": "Wisteria Corp. headgear",
       "defname": "S_WC_H_WYVERN",
-      "price": 4309
+      "price": 17233
     },
     {
       "abr": "wc-ms/h01zealot",
       "category": "Wisteria Corp. headgear",
       "defname": "S_WC_H_ZEALOT",
-      "price": 2825
+      "price": 11300
     },
     {
       "abr": "wc-ms/lr01valir",
       "category": "Wisteria Corp. headgear",
       "defname": "S_WC_H_VALIR",
-      "price": 2617
+      "price": 10467
     },
     {
       "abr": "wc-pdpiledriver",
       "category": "Wisteria Corp. melee",
       "defname": "S_WC_T_SHATTER",
-      "price": 2677
+      "price": 10708
     },
     {
       "abr": "wc-pk/003wazashi",
       "category": "Wisteria Corp. melee",
       "defname": "S_WC_M_WAZASHI",
-      "price": 1207
+      "price": 4825
     },
     {
       "abr": "wc-s/r17stinger",
       "category": "Ranged weapons",
       "defname": "S_WC_W_STINGER",
-      "price": 1584
+      "price": 6333
     },
     {
       "abr": "wc-s04render",
       "category": "Wisteria Corp. melee",
       "defname": "S_WC_M_RENDER",
-      "price": 2036
+      "price": 8142
     },
     {
       "abr": "wc-svliaris",
       "category": "Ranged weapons",
       "defname": "S_WC_W_LIARIS",
-      "price": 342
+      "price": 1367
     },
     {
       "abr": "wc-svliarism2",
       "category": "Ranged weapons",
       "defname": "S_WC_W_LIARIS_M",
-      "price": 459
+      "price": 1833
     },
     {
       "abr": "wc-wx01val'king",
       "category": "Wisteria Corp. melee",
       "defname": "S_WC_M_VALKING",
-      "price": 2905
+      "price": 11617
     },
     {
       "abr": "wisteriacorp.component",
       "category": "Wisteria Corp.",
       "defname": "S_WC_WISTERIA_COMPONENT",
-      "price": 146
+      "price": 583
     }
   ],
   "total": 1014

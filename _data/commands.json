@@ -1032,8 +1032,8 @@
       "isBalance": false,
       "hasGlobalCooldown": false,
       "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
+      "hasLocalCooldown": true,
+      "localCooldown": 60,
       "mod": "ToolkitUtils"
     },
     "description": "Makes your pawn insult a random pawn. If a viewer is specified, you'll insult them instead.",
@@ -1050,8 +1050,8 @@
       "isBalance": false,
       "hasGlobalCooldown": false,
       "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
+      "hasLocalCooldown": true,
+      "localCooldown": 60,
       "mod": "ToolkitUtils"
     },
     "description": "Makes your pawn chat with a random pawn. If a viewer is specified, you'll chat with their pawn instead.",
@@ -1068,8 +1068,8 @@
       "isBalance": false,
       "hasGlobalCooldown": false,
       "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
+      "hasLocalCooldown": true,
+      "localCooldown": 60,
       "mod": "ToolkitUtils"
     },
     "description": "Makes your pawn flirt with a random pawn. If a viewer is specified, you'll flirt with their pawn instead.",

@@ -209,10 +209,10 @@
   },
   "meteor": {
     "EventType": "Default",
-    "HasGlobalCooldown": true,
-    "HasLocalCooldown": true,
-    "GlobalCooldown": 60,
-    "LocalCooldown": 300,
+    "HasGlobalCooldown": false,
+    "HasLocalCooldown": false,
+    "GlobalCooldown": 0,
+    "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
   "maninblack": {
