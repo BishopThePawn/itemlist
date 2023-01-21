@@ -219,7 +219,7 @@
     "author": "Neronix17",
     "name": "Outer Rim - Core",
     "steamId": "2919227155",
-    "version": "1.0.8417.40464"
+    "version": "1.0.8419.34540"
   },
   {
     "author": "Neronix17",
@@ -250,5 +250,17 @@
     "name": "Begone, Message!",
     "steamId": "1951637504",
     "version": "1.7"
+  },
+  {
+    "author": "SuviIlyaDragunova",
+    "name": "Wisteria Corporation",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Kikohi",
+    "name": "Vanilla Nutrient Paste Expanded",
+    "steamId": null,
+    "version": null
   }
 ]

@@ -5723,7 +5723,187 @@
 		"price": 1967,
 		"category": "Art",
 		"defname": "OuterRim_SageOfDwartii_YanjonZelmar"
+	},
+	{
+		"abr": "puleunalloy",
+		"price": 42,
+		"category": "Wisteria Corp.",
+		"defname": "S_WC_PULEUN_ALLOY"
+	},
+	{
+		"abr": "puleunbio-fiber",
+		"price": 17,
+		"category": "Wisteria Corp.",
+		"defname": "S_WC_PULEUN_BIO_FIBER"
+	},
+	{
+		"abr": "puleunchargecore",
+		"price": 833,
+		"category": "Wisteria Corp.",
+		"defname": "S_WC_CHARGE_CORE"
+	},
+	{
+		"abr": "puleuncrystal",
+		"price": 958,
+		"category": "Wisteria Corp.",
+		"defname": "S_WC_PULEUN_CRYSTAL"
+	},
+	{
+		"abr": "puleunfabric",
+		"price": 108,
+		"category": "Wisteria Corp.",
+		"defname": "S_WC_PULEUN_FABRIC"
+	},
+	{
+		"abr": "wcchargeslinger",
+		"price": 2075,
+		"category": "Wisteria Corp. headgear",
+		"defname": "S_WC_H_CHARGE_SLINGER"
+	},
+	{
+		"abr": "wcconventionalmask",
+		"price": 1908,
+		"category": "Wisteria Corp. headgear",
+		"defname": "S_WC_H_CON_MASK"
+	},
+	{
+		"abr": "wcexecutivesuit",
+		"price": 6533,
+		"category": "Wisteria Corp. armor",
+		"defname": "S_WC_A_EXECUTIVE"
+	},
+	{
+		"abr": "wcinterfacevisor",
+		"price": 1075,
+		"category": "Wisteria Corp. headgear",
+		"defname": "S_WC_H_INTER_VISOR"
+	},
+	{
+		"abr": "wcradmask",
+		"price": 1492,
+		"category": "Wisteria Corp. headgear",
+		"defname": "S_WC_H_RAD_MASK"
+	},
+	{
+		"abr": "wctacticalcap",
+		"price": 1658,
+		"category": "Wisteria Corp. headgear",
+		"defname": "S_WC_H_TAC_CAP"
+	},
+	{
+		"abr": "wctype-acasuals",
+		"price": 5450,
+		"category": "Wisteria Corp. armor",
+		"defname": "S_WC_A_CASUALS_A"
+	},
+	{
+		"abr": "wc-aseeker",
+		"price": 5667,
+		"category": "Wisteria Corp. armor",
+		"defname": "S_WC_A_SEEKER_ARMOR"
+	},
+	{
+		"abr": "wc-a/01seeker",
+		"price": 3183,
+		"category": "Wisteria Corp. headgear",
+		"defname": "S_WC_H_SEEKER_HOOD"
+	},
+	{
+		"abr": "wc-a/01-bseeker",
+		"price": 5400,
+		"category": "Wisteria Corp. headgear",
+		"defname": "S_WC_H_SEEKER_TYPE_B_HOOD"
+	},
+	{
+		"abr": "wc-aas/x12exile",
+		"price": 1517,
+		"category": "Ranged weapons",
+		"defname": "S_WC_W_EXILE"
+	},
+	{
+		"abr": "wc-ab/lhtrident",
+		"price": 9500,
+		"category": "Ranged weapons",
+		"defname": "S_WC_W_TRIDENT"
+	},
+	{
+		"abr": "wc-amr/xnspades",
+		"price": 16467,
+		"category": "Ranged weapons",
+		"defname": "S_WC_W_SPADES"
+	},
+	{
+		"abr": "wc-ar/x15gladiator",
+		"price": 1467,
+		"category": "Ranged weapons",
+		"defname": "S_WC_W_GLADIATOR"
+	},
+	{
+		"abr": "wc-ar01lockreed",
+		"price": 1417,
+		"category": "Ranged weapons",
+		"defname": "S_WC_W_LOCKREED"
+	},
+	{
+		"abr": "wc-at/bm-06javelin",
+		"price": 11500,
+		"category": "Ranged weapons",
+		"defname": "S_WC_W_JAVELIN"
+	},
+	{
+		"abr": "wc-b2v-rass",
+		"price": 1333,
+		"category": "Ranged weapons",
+		"defname": "S_WC_W_VRASS"
+	},
+	{
+		"abr": "wc-cbsova",
+		"price": 1217,
+		"category": "Ranged weapons",
+		"defname": "S_WC_W_SOVA"
+	},
+	{
+		"abr": "wc-cc/cb03headhunter",
+		"price": 3083,
+		"category": "Ranged weapons",
+		"defname": "S_WC_W_HEADHUNTER"
+	},
+	{
+		"abr": "wc-cm/m1vill",
+		"price": 3567,
+		"category": "Wisteria Corp. melee",
+		"defname": "S_WC_M_VILL"
+	},
+	{
+		"abr": "wc-cwzei-lash",
+		"price": 917,
+		"category": "Ranged weapons",
+		"defname": "S_WC_W_ZEILASH"
+	},
+	{
+		"abr": "wc-g/armikoyan",
+		"price": 12600,
+		"category": "Ranged weapons",
+		"defname": "S_WC_W_MIKOYAN"
+	},
+	{
+		"abr": "wc-g/b01gunblade",
+		"price": 14417,
+		"category": "Ranged weapons",
+		"defname": "S_WC_W_GUNBLADE"
+	},
+	{
+		"abr": "nutrientpastedripper",
+		"price": 248,
+		"category": "Misc",
+		"defname": "VNPE_NutrientPasteDripper"
+	},
+	{
+		"abr": "nutrientpastefeeder",
+		"price": 68,
+		"category": "Furniture",
+		"defname": "VNPE_NutrientPasteFeeder"
 	}
 	],
-	"total": 954
+	"total": 1014
 }
