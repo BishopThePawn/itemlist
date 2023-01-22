@@ -102,12 +102,6 @@
     "version": "1.0.06"
   },
   {
-    "author": "Oskar Potocki, ISOREX, xrushha, legodude17 and Chowder",
-    "name": "Vanilla Factions Expanded - Classical",
-    "steamId": "2787850474",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Josh Mate",
     "name": "Balanced Soil",
     "steamId": null,
@@ -124,6 +118,12 @@
     "name": "Alpha Memes",
     "steamId": "2661356814",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "lbmaian",
+    "name": "Begone, Message!",
+    "steamId": "1951637504",
+    "version": "1.7"
   },
   {
     "author": "Darth_Sergeant",
@@ -144,18 +144,6 @@
     "version": null
   },
   {
-    "author": "Allie and Sarg",
-    "name": "Alpha Genes",
-    "steamId": "2891845502",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "merthsoft",
-    "name": "Designator Shapes",
-    "steamId": "1235181370",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Vampiresbane",
     "name": "Rails and Roads of the Rim",
     "steamId": "2896163437",
@@ -164,12 +152,6 @@
   {
     "author": "Oskar Potocki, Sarg Bjornson and Chowder",
     "name": "Vanilla Plants Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "JangoD'soul",
-    "name": "Fallout - Nuka Cola Collection",
     "steamId": null,
     "version": null
   },
@@ -190,18 +172,6 @@
     "name": "ToolkitUtils",
     "steamId": "2009500580",
     "version": "6.3.0.0.biotech.b6"
-  },
-  {
-    "author": "JME, Caaz, Odeum, Pphhyy the great and Zylle",
-    "name": "Music Expanded Framework",
-    "steamId": "2891663812",
-    "version": "1.0.1.0"
-  },
-  {
-    "author": "JME, Caaz, Odeum, Pphhyy the great and Zylle",
-    "name": "Music Expanded Core",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Peppsen",
@@ -241,25 +211,37 @@
   },
   {
     "author": "Neronix17",
+    "name": "Outer Rim - Mandalore",
+    "steamId": "2920516629",
+    "version": "1.0.8419.37462"
+  },
+  {
+    "author": "Neronix17",
     "name": "Outer Rim - Rebel Alliance",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "lbmaian",
-    "name": "Begone, Message!",
-    "steamId": "1951637504",
-    "version": "1.7"
-  },
-  {
-    "author": "SuviIlyaDragunova",
-    "name": "Wisteria Corporation",
     "steamId": null,
     "version": null
   },
   {
     "author": "Oskar Potocki and Kikohi",
     "name": "Vanilla Nutrient Paste Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Grizzlemethis",
+    "name": "[GMT] Trading Spot",
+    "steamId": "2874517333",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Mehni",
+    "name": "Dismiss Trader (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "RicoFox233",
+    "name": "[RF]Pokemon Character Pack - 宝可梦造型包",
     "steamId": null,
     "version": null
   }
