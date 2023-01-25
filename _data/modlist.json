@@ -150,12 +150,6 @@
     "version": "1.4.2"
   },
   {
-    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
-    "name": "Vanilla Plants Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "hodlhodl",
     "name": "ToolkitCore",
     "steamId": "2018368654",
@@ -180,48 +174,6 @@
     "version": null
   },
   {
-    "author": "Neronix17",
-    "name": "Tabula Rasa",
-    "steamId": "1660622094",
-    "version": "1.0.8421.18257"
-  },
-  {
-    "author": "Neronix17",
-    "name": "Outer Rim - Core",
-    "steamId": "2919227155",
-    "version": "1.0.8419.34540"
-  },
-  {
-    "author": "Neronix17",
-    "name": "Outer Rim - Chiss Ascendancy",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Neronix17",
-    "name": "Outer Rim - Furniture and Decor",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Neronix17",
-    "name": "Outer Rim - Galactic Empire",
-    "steamId": "2919248699",
-    "version": "1.0.8416.41904"
-  },
-  {
-    "author": "Neronix17",
-    "name": "Outer Rim - Mandalore",
-    "steamId": "2920516629",
-    "version": "1.0.8419.37462"
-  },
-  {
-    "author": "Neronix17",
-    "name": "Outer Rim - Rebel Alliance",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki and Kikohi",
     "name": "Vanilla Nutrient Paste Expanded",
     "steamId": null,
@@ -240,9 +192,39 @@
     "version": null
   },
   {
-    "author": "RicoFox233",
-    "name": "[RF]Pokemon Character Pack - 宝可梦造型包",
+    "author": "Helixien",
+    "name": "Altered Carbon",
+    "steamId": "2196278117",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Rimatomics",
+    "steamId": "1127530465",
+    "version": "1.7.7368"
+  },
+  {
+    "author": "Erin",
+    "name": "Erin's Valheim Creatures",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Issac Zhuang",
+    "name": "Muzzle Flash",
+    "steamId": "2917732219",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Helixien, Taranchuk, OskarPotocki, Luizi, IcingWithCheeseCake, Sir Van and Reann_Shepard",
+    "name": "Reinforced Mechanoid 2",
+    "steamId": "2910050186",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "PeteTimesSix",
+    "name": "Research Reinvented",
+    "steamId": "2868392160",
+    "version": "1.0.0.0"
   }
 ]
