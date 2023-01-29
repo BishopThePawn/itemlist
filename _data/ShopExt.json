@@ -275,7 +275,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
+      "addPrice": 1,
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy likes to be up during the night, and sleep during the day.\n\nhe gets a mood bonus if awake at night (23h-6h) and mood loss if awake during the day (11h-18h).\n\nhe doesn't get a mood penalty for being in the dark.",
@@ -357,7 +357,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
+      "addPrice": 1,
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy has forsaken physical comforts and enjoyments in favor of a simple, pure lifestyle. he will become unhappy if he has a bedroom that's too impressive. he also dislikes fancy food and prefers to eat raw. he never judges others by their appearance.",
@@ -505,7 +505,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
+      "addPrice": 1,
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy loves fire. he will never extinguish fires, and will occasionally go on random fire starting sprees. he will be happy around flames, and happier when wielding an incendiary weapon.",
@@ -653,7 +653,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
+      "addPrice": 1,
       "removePrice": 1,
       "degree": 0,
       "description": "Timmy has no need to experience the outdoors or light. he will never feel cooped up or get cabin fever, no matter how long he stays inside, and is not bothered by darkness.",
@@ -1813,7 +1813,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
+      "addPrice": 1,
       "removePrice": 1,
       "degree": 0,
       "description": "A strict principle of nonviolence which applies to all living things.",
@@ -1875,6 +1875,28 @@
       },
       "defName": "VFEU_Sleever",
       "name": "sleever"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Psychic enthrallment caused by incredibly strong mental influence. Thralls don't need to sleep or have recreation, but are unable to do skilled work and engage in social interactions.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Psycasts Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VPE_Thrall",
+      "name": "thrall"
     }
   ],
   "races": [
