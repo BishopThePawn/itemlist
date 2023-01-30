@@ -72,18 +72,6 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki, Kikohi and Helixien",
-    "name": "Vanilla Events Expanded",
-    "steamId": "1938420742",
-    "version": "1.1.0"
-  },
-  {
-    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
-    "name": "Vanilla Expanded Framework",
-    "steamId": "2023507013",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Fuu Chan",
     "name": "[Fuu] Punch Button",
     "steamId": "2651392585",
@@ -106,6 +94,12 @@
     "name": "Balanced Soil",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
   },
   {
     "author": "Oskar Potocki, Sarg Bjornson and Chowder",
@@ -144,12 +138,6 @@
     "version": null
   },
   {
-    "author": "Vampiresbane",
-    "name": "Rails and Roads of the Rim",
-    "steamId": "2896163437",
-    "version": "1.4.2"
-  },
-  {
     "author": "hodlhodl",
     "name": "ToolkitCore",
     "steamId": "2018368654",
@@ -174,27 +162,9 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki and Kikohi",
-    "name": "Vanilla Nutrient Paste Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Grizzlemethis",
     "name": "[GMT] Trading Spot",
     "steamId": "2874517333",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Mehni",
-    "name": "Dismiss Trader (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Helixien",
-    "name": "Altered Carbon",
-    "steamId": "2196278117",
     "version": "1.0.0.0"
   },
   {
@@ -202,12 +172,6 @@
     "name": "Dubs Rimatomics",
     "steamId": "1127530465",
     "version": "1.7.7368"
-  },
-  {
-    "author": "Erin",
-    "name": "Erin's Valheim Creatures",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Issac Zhuang",
@@ -262,6 +226,24 @@
     "name": "Apothecary (Continued)",
     "steamId": "2195469123",
     "version": "1.4.2"
+  },
+  {
+    "author": "Vampiresbane",
+    "name": "Rails and Roads of the Rim",
+    "steamId": "2896163437",
+    "version": "1.4.2"
+  },
+  {
+    "author": "Oskar Potocki, Kikohi and Helixien",
+    "name": "Vanilla Events Expanded",
+    "steamId": "1938420742",
+    "version": "1.1.0"
+  },
+  {
+    "author": "Oskar Potocki and Kikohi",
+    "name": "Vanilla Nutrient Paste Expanded",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Oskar Potocki, Trunken and XeoNovaDan",
